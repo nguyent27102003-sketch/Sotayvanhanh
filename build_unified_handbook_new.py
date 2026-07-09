@@ -3616,8 +3616,9 @@ template_foot = f"""
 </html>
 """
 
-# Write output file
-with open(output_html, "w", encoding="utf-8") as f:
-    f.write(template_head + body_content + template_foot)
+# Write output files
+for filename in ["index.html", "handbook.html"]:
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(template_head + body_content + template_foot)
 
 print("Unified handbook compiled successfully with advanced multi-row calculators and product database manager!")
