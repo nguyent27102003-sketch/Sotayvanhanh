@@ -1,0 +1,2271 @@
+{
+  "loaderData": {
+    "layout": {
+      "defaultLanguage": "vi-VN",
+      "currentLanguage": "vi-VN",
+      "isMobile": false,
+      "path": "http://[fdbd:dc53:29:612::47]/university/essay?knowledge_id=6837804173133569&lang=vi-VN",
+      "region": "vn",
+      "regionConfig": {
+        "region": "vn",
+        "app_id": 4068,
+        "tea": {
+          "report_channel": "sg_central",
+          "channel_type": "ttp",
+          "ab_channel_domain": "https://maliva-mcs.byteoversea.com"
+        },
+        "api": {
+          "creatorUrl": "academy-api.tiktok.com"
+        },
+        "intl": {
+          "zoneHost": "https://starling-oversea.byteoversea.com",
+          "supportedLngs": [
+            "en",
+            "vi-VN"
+          ],
+          "fallbackLng": "vi-VN",
+          "lng": "vi-VN",
+          "language": "vi"
+        },
+        "slardar": {
+          "region": "i18n",
+          "domain": "https://mon-va.byteoversea.com"
+        },
+        "navbar": {
+          "login": {
+            "seller": "https://seller-vn.tiktok.com/account/login?channel=selleracademy&redirect_url=",
+            "creator": "https://www.tiktok.com/login?lang=vi&redirect_url=",
+            "signup": "https://seller-vn.tiktok.com/account/register?channel=selleracademy&redirect_url="
+          }
+        },
+        "article": {
+          "highlightTags": true
+        },
+        "originForTesting": "https://seller-vn.tiktok.com"
+      },
+      "supportedLanguages": [
+        "en",
+        "vi-VN"
+      ]
+    },
+    "essay/page": {
+      "learning_info": {
+        "learning_id": 6837804173133569,
+        "learning_type": 2,
+        "name": "Thông Tin Cơ Bản về Thuế trên Phí Nền Tảng",
+        "image": "https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/0a72af5d929f4df993533a2bc4762550~tplv-nk3i2mqmvs-image.png?x-expires=2017902960&x-signature=oQoP0SLwX5mCpH%2BSGMphSrwPUcE%3D&render=1777893115302",
+        "views": 264740,
+        "create_time": 1655448326,
+        "modify_time": 1777893129
+      },
+      "country_scope_info": {
+        "region": [
+          "vn"
+        ],
+        "is_all_eu": false,
+        "tag_starling": "academy_content_applicable_regions,academy_footer_popup_contact_site_vn",
+        "tag_text": "Áp dụng cho:Việt Nam"
+      },
+      "knowledge_detail": {
+        "knowledge_id": 6837804173133569,
+        "knowledge_name": "Thông Tin Cơ Bản về Thuế trên Phí Nền Tảng",
+        "knowledge_content": "{\"version\":2,\"deltas\":{\"0\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\",\"insertorder\":\"first\"},\"insert\":\"*\"},{\"insert\":\"Từ ngày 1 tháng 7 năm 2025, theo Thông tư 86/2024/TT-BTC, mã số thuế của Nhà bán hàng cá nhân và hộ kinh doanh sẽ được thay thế bởi mã định danh cá nhân 12 chữ số (CCCD) do Nhà bán hàng cung cấp khi đăng kí tài khoản trên nền tảng.\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"center\"},\"insert\":\"*\"},{\"attributes\":{\"id\":\"60bT8qsU\",\"image\":\"true\",\"fileType\":\"image\",\"fileSize\":\"0\",\"canDownload\":\"true\",\"fileUri\":\"tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975\",\"fileSrc\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2070609225&x-signature=9k3FPkDFm62vtWMAmztYY8OW9q0%3D\"},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\"Căn cứ quy định tại Luật Thuế Giá trị Gia tăng số 48/2024/QH15, từ ngày 01 tháng 07 năm 2025, thuế suất áp dụng cho dịch vụ được các nhà cung cấp nước ngoài không có cơ sở thường trú tại Việt Nam cung cấp cho tổ chức, cá nhân tại Việt Nam qua kênh thương mại điện tử và các nền tảng số tăng lên 10%.\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"list\":\"bullet1\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\"Nếu tổ chức của Nhà bán hàng đã đăng ký thuế tại Việt Nam, vui lòng cung cấp Mã số thuế của Tổ chức (\\\"Mã số thuế\\\") cho TikTok. Sau khi Mã số thuế được xác minh, các khoản phí mà TikTok thu sẽ là \"},{\"attributes\":{\"fontcolor\":\"#000000\",\"bold\":\"true\"},\"insert\":\"số tiền chưa bao gồm khoản thuế của Việt Nam\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\". Bạn sẽ chịu trách nhiệm chịu thuế, báo cáo và nộp Thuế của VN cho TikTok đến cơ quan thuế Việt Nam đối với Phí Dịch Vụ.\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"list\":\"bullet1\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\"Nếu tổ chức của Nhà bán hàng không đăng ký thuế tại Việt Nam hoặc Mã số thuế được cung cấp chưa được xác minh, các khoản phí mà TikTok thu sẽ \"},{\"attributes\":{\"fontcolor\":\"#000000\",\"bold\":\"true\"},\"insert\":\"bao gồm các khoản thuế của Việt Nam\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\". Chúng tôi sẽ chịu trách trách nhiệm báo cáo và nộp Thuế của Việt Nam phát sinh từ các Phí Dịch vụ của Quý khách hàng.\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\",\"list\":\"bullet1\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\"Các khoản thuế của Việt Nam bao gồm cả Thuế giá trị gia tăng (“GTGT”) và Thuế thu nhập doanh nghiệp (“CIT”). Hiện tại, phí nền tảng của TikTok Shop chịu thuế suất 10% thuế GTGT và 5% thuế TNDN.\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"center\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"id\":\"hIwoqzZP\",\"image\":\"true\",\"fileType\":\"image\",\"fileSize\":\"0\",\"canDownload\":\"true\",\"fileUri\":\"tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975\",\"fileSrc\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2070609225&x-signature=9k3FPkDFm62vtWMAmztYY8OW9q0%3D\"},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\",\"insertorder\":\"first\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\"Vào ngày 29 tháng 9 năm 2021, Bộ tài chính Việt Nam đã ban hành Thông tư 80/2021/TT-BTC hướng dẫn triển khai Luật quản lý thuế và Nghị định chính phủ 126/2020/ND-CP, có hiệu lực từ ngày 1 tháng 1 năm 2022. Để tuân thủ nội dung cập nhật của luật thuế địa phương, TikTok Pte. Ltd. (“TikTok”) sẽ tiến hành đăng ký thuế Việt Nam và chịu trách nhiệm nộp thuế tại Việt Nam với các khoản phí mà TikTok thu khi Nhà bán hàng sử dụng TikTok Shop. \"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"center\"},\"insert\":\"*\"},{\"attributes\":{\"id\":\"nkHlUsQf\",\"image\":\"true\",\"fileType\":\"image\",\"fileSize\":\"0\",\"canDownload\":\"true\",\"fileUri\":\"tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975\",\"fileSrc\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2070609225&x-signature=9k3FPkDFm62vtWMAmztYY8OW9q0%3D\"},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\",\"heading\":\"h2\",\"id\":\"EBCE00CE\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\"Minh họa cách tính thuế\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"list\":\"bullet1\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\"Nếu Nhà bán hàng doanh nghiệp đã cung cấp mã số thuế và mã số thuế đã được xác minh:\"},{\"insert\":\"\\n\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"aceTable\":\"rs7rbz64c3d60pgdpiy2ekwi0i988cu621 cs4e6www4i1fcqt4f2q1enqc7zkewgs5jv\"},\"insert\":\"*\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"list\":\"bullet1\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\"Nếu Nhà bán hàng doanh nghiệp chưa cung cấp mã số thuế hoặc mã số thuế được cung cấp chưa được xác minh:\"},{\"insert\":\"\\n\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"aceTable\":\"rs79dap8ydqcak5vofug0w0s7lu1pl4f7i cszwdqs1iakffllwhe77bak51hggwv2vzg\"},\"insert\":\"*\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"center\"},\"insert\":\"*\"},{\"attributes\":{\"id\":\"VnkCKAjr\",\"image\":\"true\",\"fileType\":\"image\",\"fileSize\":\"0\",\"canDownload\":\"true\",\"fileUri\":\"tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975\",\"fileSrc\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2070609225&x-signature=9k3FPkDFm62vtWMAmztYY8OW9q0%3D\"},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\",\"heading\":\"h2\",\"id\":\"EBEB00CD\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\"Làm thế nào để cung cấp Mã số thuế trên TikTok Shop?\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\",\"id\":\"EBD500CE\",\"heading\":\"h3\"},\"insert\":\"*\"},{\"insert\":\"Nhà Bán Hàng Cá Nhân và Hộ Kinh Doanh\\n\"},{\"insert\":\"Mã số thuế của Nhà bán hàng cá nhân và hộ kinh doanh mới đăng kí sẽ mặc định là mã định danh cá nhân 12 chữ số (CCCD) do Nhà bán hàng cung cấp khi đăng kí tài khoản trên nền tảng.\\n\"},{\"insert\":\"Nhà bán hàng cá nhân và hộ kinh doanh hiện đang hoạt động trên nền tảng, nếu từng cung cấp thông tin mã số thuế, thì mã số thuế này sẽ được thay thế bởi mã định danh cá nhân 12 chữ số (CCCD) do Nhà bán hàng cung cấp khi đăng kí tài khoản trên nền tảng.\\n\"},{\"insert\":\"Nếu Nhà bán hàng chưa từng cung cấp mã định danh cá nhân nhưng đã cung cấp mã số thuế, thì mã số thuế sẽ giữ nguyên.\\n\"},{\"insert\":\"Để cập nhật thông tin thuế:\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"list\":\"bullet1\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"insert\":\"Nếu cần cập nhật mã số thuế/mã định danh cá nhân, Nhà bán hàng cần liệc lạc với nhân viên quản lý tài khoản từ nền tảng (AM), hoặc gửi yêu cầu trên \"},{\"attributes\":{\"hyperlink\":\"{\\\"href\\\":\\\"https://seller-vn.tiktok.com/ticket/faq\\\",\\\"linkId\\\":\\\"DmtWMoAwfX\\\"}\"},\"insert\":\"Trung tâm hỗ trợ\"},{\"insert\":\".\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"list\":\"bullet1\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"insert\":\"Để cập nhật địa chỉ hoá đơn, truy cập:\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"list\":\"bullet2\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"insert\":\"Trên máy tính: \"},{\"attributes\":{\"hyperlink\":\"{\\\"href\\\":\\\"https://seller-vn.tiktok.com/profile/account-setting/tax-infomation\\\",\\\"linkId\\\":\\\"R1pZFDo2Vl\\\"}\"},\"insert\":\"Trung tâm Nhà bán hàng TikTok Shop > Tài khoản của tôi > Cài đặt tài khoản > Thuế\"},{\"insert\":\" hoặc \"},{\"attributes\":{\"hyperlink\":\"{\\\"href\\\":\\\"https://seller-vn.tiktok.com/finance/invoice\\\",\\\"linkId\\\":\\\"pdf2uhiNaj\\\"}\"},\"insert\":\"Trung tâm Nhà bán hàng TikTok Shop > Tài chính > Trung tâm hoá đơn\"},{\"insert\":\", bấm \\\"Đi tới thông tin thuế\\\" \\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"center\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"id\":\"FLo1g1hS\",\"image\":\"true\",\"fileType\":\"image\",\"fileSize\":\"0\",\"canDownload\":\"true\",\"fileUri\":\"tos-alisg-i-nk3i2mqmvs-sg/db0592f745c541e6967ce9b2075b942f\",\"fileSrc\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/db0592f745c541e6967ce9b2075b942f~tplv-nk3i2mqmvs-image.png?x-expires=2017902865&x-signature=hGAeo5JD3jubqm25nLktkFv57LE%3D\"},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"center\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"id\":\"8WyeH0s5\",\"image\":\"true\",\"fileType\":\"image\",\"fileSize\":\"0\",\"canDownload\":\"true\",\"fileUri\":\"tos-alisg-i-nk3i2mqmvs-sg/01938bae952f4dfe8181f9822755a63b\",\"fileSrc\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/01938bae952f4dfe8181f9822755a63b~tplv-nk3i2mqmvs-image.png?x-expires=2017902863&x-signature=HB1RR%2FF5Dje2GAl604uXWFlEOHo%3D\"},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"list\":\"bullet2\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"insert\":\"Trên ứng dụng di động: \"},{\"attributes\":{\"bold\":\"true\"},\"insert\":\"Cài đặt > Thông tin thuế \"},{\"insert\":\"\\n\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"id\":\"xHRSRTxx\",\"image\":\"true\",\"fileName\":\"Tax 2 MB VN.jpeg\",\"fileType\":\"image\",\"fileSize\":\"49260\",\"mimeType\":\"image/jpeg\",\"canDownload\":\"true\",\"fileUri\":\"tos-alisg-i-nk3i2mqmvs-sg/2f04e209bb9043dbab123a139b86d4fd\",\"fileSrc\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/2f04e209bb9043dbab123a139b86d4fd~tplv-nk3i2mqmvs-image.jpeg?x-expires=2017902942&x-signature=QXWqRcy5BewRfrsJS8jc8rT6o7g%3D\"},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"heading\":\"h2\",\"id\":\"EC0800CC\"},\"insert\":\"*\"},{\"insert\":\"Nhà Bán Hàng Doanh Nghiệp\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"list\":\"bullet1\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\"Trên Trung tâm Nhà bán hàng trên máy tính\\\"\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"list\":\"bullet2\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\"Truy cập \"},{\"attributes\":{\"fontcolor\":\"#000000\",\"hyperlink\":\"{\\\"href\\\":\\\"https://seller-vn.tiktok.com/profile/account-setting/tax-infomation\\\",\\\"linkId\\\":\\\"4gGXWSQjQf\\\"}\"},\"insert\":\"Trung tâm Nhà bán hàng TikTok Shop > Tài khoản của tôi > Cài đặt tài khoản > Thuế\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"bold\":\"true\"},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"center\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"id\":\"aDg9n4w5\",\"image\":\"true\",\"fileType\":\"image\",\"fileSize\":\"0\",\"canDownload\":\"true\",\"fileUri\":\"tos-alisg-i-nk3i2mqmvs-sg/db0592f745c541e6967ce9b2075b942f\",\"fileSrc\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/db0592f745c541e6967ce9b2075b942f~tplv-nk3i2mqmvs-image.png?x-expires=2017902865&x-signature=hGAeo5JD3jubqm25nLktkFv57LE%3D\"},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"list\":\"bullet2\",\"lmkr\":\"1\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\"Hoặc truy cập \"},{\"attributes\":{\"fontcolor\":\"#000000\",\"hyperlink\":\"{\\\"href\\\":\\\"https://seller-vn.tiktok.com/finance/invoice\\\",\\\"linkId\\\":\\\"h7EPjrFPfi\\\"}\"},\"insert\":\"Trung tâm Nhà bán hàng TikTok Shop > Tài chính > Trung tâm hoá đơn\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\", bấm \\\"Đi tới thông tin thuế\\\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"center\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"id\":\"If28r1xq\",\"image\":\"true\",\"fileType\":\"image\",\"fileSize\":\"0\",\"canDownload\":\"true\",\"fileUri\":\"tos-alisg-i-nk3i2mqmvs-sg/01938bae952f4dfe8181f9822755a63b\",\"fileSrc\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/01938bae952f4dfe8181f9822755a63b~tplv-nk3i2mqmvs-image.png?x-expires=2017902863&x-signature=HB1RR%2FF5Dje2GAl604uXWFlEOHo%3D\"},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"list\":\"bullet2\",\"lmkr\":\"1\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\"Điền mã số thuế (tax code) và địa chỉ hoá đơn\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"center\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"id\":\"LlTNk5yw\",\"image\":\"true\",\"fileType\":\"image\",\"fileSize\":\"0\",\"canDownload\":\"true\",\"fileUri\":\"tos-alisg-i-nk3i2mqmvs-sg/1697f14b94e84276a9deb8edabe1440a\",\"fileSrc\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/1697f14b94e84276a9deb8edabe1440a~tplv-nk3i2mqmvs-image.png?x-expires=2017902863&x-signature=KtCslMu5ygGCrbhsJUHYifyh6pY%3D\"},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"list\":\"bullet1\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\"Trên ưng dụng Seller Center điện thoại\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"list\":\"bullet2\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\"Truy cập \"},{\"attributes\":{\"fontcolor\":\"#000000\",\"bold\":\"true\"},\"insert\":\"Cài đặt > Thông tin thuế \"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"center\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"id\":\"uYByLkao\",\"image\":\"true\",\"fileType\":\"image\",\"fileSize\":\"0\",\"canDownload\":\"true\",\"fileUri\":\"tos-alisg-i-nk3i2mqmvs-sg/06eb422c1e75482db0ebe1542e03b9c5\",\"fileSrc\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/06eb422c1e75482db0ebe1542e03b9c5~tplv-nk3i2mqmvs-image.jpeg?x-expires=2017902862&x-signature=53MWUR9mUk0SjhsjroSCQbzGIZE%3D\"},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"list\":\"bullet2\",\"start\":\"1\",\"origin-start\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\"},\"insert\":\"Điền mã số thuế (tax code) và địa chỉ hoá đơn \"},{\"insert\":\"\\n\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"id\":\"KgHTLdNN\",\"image\":\"true\",\"fileName\":\"Tax 2 MB VN.jpeg\",\"fileType\":\"image\",\"fileSize\":\"49260\",\"mimeType\":\"image/jpeg\",\"canDownload\":\"true\",\"fileUri\":\"tos-alisg-i-nk3i2mqmvs-sg/2f04e209bb9043dbab123a139b86d4fd\",\"fileSrc\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/2f04e209bb9043dbab123a139b86d4fd~tplv-nk3i2mqmvs-image.jpeg?x-expires=2017902942&x-signature=QXWqRcy5BewRfrsJS8jc8rT6o7g%3D\"},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"},\"xr1mhouwi4a7s4hf2w306mvmmbqrpyy4ppoxc138absb2dr9vu0ohtggskai0ukuiaa10h\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"Phí dịch vụ TikTok\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"(bao gồm Thuế Việt Nam)\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1mhouwi4a7s4hf2w306mvmmbqrpyy4ppoxc138absb2dr9vu0ohtggskai0ukuiaa10h\",\"zoneType\":\"Z\"},\"xr1mhouwi4a7s4hf2w306mvmmbqrpyy4ppoxc1q4ezbvurqjl8dluy8c486kf07imu0ty6\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"right\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"5000\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1mhouwi4a7s4hf2w306mvmmbqrpyy4ppoxc1q4ezbvurqjl8dluy8c486kf07imu0ty6\",\"zoneType\":\"Z\"},\"xr1lveb9naaluceubgirfyyjwk44brjfebtxc138absb2dr9vu0ohtggskai0ukuiaa10h\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"Thuế GTGT mà Nhà bán hàng phải chịu và thanh toán thay cho TikTok\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1lveb9naaluceubgirfyyjwk44brjfebtxc138absb2dr9vu0ohtggskai0ukuiaa10h\",\"zoneType\":\"Z\"},\"xr1lveb9naaluceubgirfyyjwk44brjfebtxc1q4ezbvurqjl8dluy8c486kf07imu0ty6\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"right\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"5000*10%=500\"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1lveb9naaluceubgirfyyjwk44brjfebtxc1q4ezbvurqjl8dluy8c486kf07imu0ty6\",\"zoneType\":\"Z\"},\"xr1du9y91ylmnulg053h6md0nd9izinrnqjxc138absb2dr9vu0ohtggskai0ukuiaa10h\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"Thuế TNDN mà Nhà bán hàng phải chịu và thanh toán thay cho TikTok\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1du9y91ylmnulg053h6md0nd9izinrnqjxc138absb2dr9vu0ohtggskai0ukuiaa10h\",\"zoneType\":\"Z\"},\"xr1du9y91ylmnulg053h6md0nd9izinrnqjxc1q4ezbvurqjl8dluy8c486kf07imu0ty6\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"right\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"(5000-5000*10%)*5%=225\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1du9y91ylmnulg053h6md0nd9izinrnqjxc1q4ezbvurqjl8dluy8c486kf07imu0ty6\",\"zoneType\":\"Z\"},\"xr1thszosfpugksilhgp381hw16ilk6j3w9xc138absb2dr9vu0ohtggskai0ukuiaa10h\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"Tổng số tiền Nhà bán hàng phải trả TikTok được ghi trên hóa đơn\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"(Số tiền \"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\",\"bold\":\"true\"},\"insert\":\"không\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\" bao gồm Thuế Việt Nam)\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1thszosfpugksilhgp381hw16ilk6j3w9xc138absb2dr9vu0ohtggskai0ukuiaa10h\",\"zoneType\":\"Z\"},\"xr1thszosfpugksilhgp381hw16ilk6j3w9xc1q4ezbvurqjl8dluy8c486kf07imu0ty6\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"right\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"Phí dịch vụ - Thuế GTGT - Thuế CIT \"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"right\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\" = 5000 - 500 - 225 \"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"right\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"= 4275\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1thszosfpugksilhgp381hw16ilk6j3w9xc1q4ezbvurqjl8dluy8c486kf07imu0ty6\",\"zoneType\":\"Z\"},\"xr1q46cnnteqze37k9copkp19hcjtt8480hxc138absb2dr9vu0ohtggskai0ukuiaa10h\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"Số tiền thực thanh toán cho TikTok\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1q46cnnteqze37k9copkp19hcjtt8480hxc138absb2dr9vu0ohtggskai0ukuiaa10h\",\"zoneType\":\"Z\"},\"xr1q46cnnteqze37k9copkp19hcjtt8480hxc1q4ezbvurqjl8dluy8c486kf07imu0ty6\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"right\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"4275\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1q46cnnteqze37k9copkp19hcjtt8480hxc1q4ezbvurqjl8dluy8c486kf07imu0ty6\",\"zoneType\":\"Z\"},\"rs7rbz64c3d60pgdpiy2ekwi0i988cu621\":{\"ops\":[{\"attributes\":{\"backgroundColor\":\"{\\\"lvgshy7z\\\":\\\"\\\"}\",\"border\":\"{\\\"jbwqhich\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"}}\",\"valign\":\"{\\\"dblhtfc1\\\":\\\"top\\\"}\",\"padding\":\"{\\\"cajcrd7l\\\":\\\"8px 8px 8px 8px\\\"}\",\"rowHeight\":\"39\"},\"insert\":{\"id\":\"r1mhouwi4a7s4hf2w306mvmmbqrpyy4ppo\"}},{\"attributes\":{\"backgroundColor\":\"{\\\"3365kn50\\\":\\\"\\\"}\",\"border\":\"{\\\"v89ktca6\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"}}\",\"valign\":\"{\\\"o2lbkvbh\\\":\\\"top\\\"}\",\"padding\":\"{\\\"npfe5odp\\\":\\\"8px 8px 8px 8px\\\"}\",\"rowHeight\":\"39\"},\"insert\":{\"id\":\"r1lveb9naaluceubgirfyyjwk44brjfebt\"}},{\"attributes\":{\"backgroundColor\":\"{\\\"38eppog5\\\":\\\"\\\"}\",\"border\":\"{\\\"pw2zci61\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"}}\",\"valign\":\"{\\\"8bc4dn1k\\\":\\\"top\\\"}\",\"padding\":\"{\\\"nrksmqws\\\":\\\"8px 8px 8px 8px\\\"}\",\"rowHeight\":\"39\"},\"insert\":{\"id\":\"r1du9y91ylmnulg053h6md0nd9izinrnqj\"}},{\"attributes\":{\"backgroundColor\":\"{\\\"bhdmg8hh\\\":\\\"\\\"}\",\"border\":\"{\\\"9olj675d\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"}}\",\"valign\":\"{\\\"t1691rzk\\\":\\\"top\\\"}\",\"padding\":\"{\\\"ki9h6y8e\\\":\\\"8px 8px 8px 8px\\\"}\",\"rowHeight\":\"39\"},\"insert\":{\"id\":\"r1thszosfpugksilhgp381hw16ilk6j3w9\"}},{\"attributes\":{\"backgroundColor\":\"{\\\"krsyz8qr\\\":\\\"\\\"}\",\"border\":\"{\\\"dd7jg3qn\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"}}\",\"valign\":\"{\\\"dzfronq7\\\":\\\"top\\\"}\",\"padding\":\"{\\\"lmmlyjjy\\\":\\\"8px 8px 8px 8px\\\"}\",\"rowHeight\":\"39\"},\"insert\":{\"id\":\"r1q46cnnteqze37k9copkp19hcjtt8480h\"}}],\"zoneId\":\"rs7rbz64c3d60pgdpiy2ekwi0i988cu621\",\"zoneType\":\"R\"},\"cs4e6www4i1fcqt4f2q1enqc7zkewgs5jv\":{\"ops\":[{\"attributes\":{\"colWidth\":\"395\"},\"insert\":{\"id\":\"c138absb2dr9vu0ohtggskai0ukuiaa10h\"}},{\"attributes\":{\"colWidth\":\"365\",\"backgroundColor\":\"{\\\"lvgshy7z\\\":\\\"\\\",\\\"3365kn50\\\":\\\"\\\",\\\"38eppog5\\\":\\\"\\\",\\\"bhdmg8hh\\\":\\\"\\\",\\\"krsyz8qr\\\":\\\"\\\"}\",\"border\":\"{\\\"jbwqhich\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"},\\\"v89ktca6\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"},\\\"pw2zci61\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"},\\\"9olj675d\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"},\\\"dd7jg3qn\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"}}\",\"valign\":\"{\\\"dblhtfc1\\\":\\\"top\\\",\\\"o2lbkvbh\\\":\\\"top\\\",\\\"8bc4dn1k\\\":\\\"top\\\",\\\"t1691rzk\\\":\\\"top\\\",\\\"dzfronq7\\\":\\\"top\\\"}\",\"padding\":\"{\\\"cajcrd7l\\\":\\\"8px 8px 8px 8px\\\",\\\"npfe5odp\\\":\\\"8px 8px 8px 8px\\\",\\\"nrksmqws\\\":\\\"8px 8px 8px 8px\\\",\\\"ki9h6y8e\\\":\\\"8px 8px 8px 8px\\\",\\\"lmmlyjjy\\\":\\\"8px 8px 8px 8px\\\"}\"},\"insert\":{\"id\":\"c1q4ezbvurqjl8dluy8c486kf07imu0ty6\"}}],\"zoneId\":\"cs4e6www4i1fcqt4f2q1enqc7zkewgs5jv\",\"zoneType\":\"C\"},\"xr1w1ty2ti6qukbiuzbhdd8mr033nmf8gsfxc1mh3z0gjaakug0wsyztshc7qj7wi8p5zb\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"Phí dịch vụ TikTok\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"(bao gồm Thuế Việt Nam)\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1w1ty2ti6qukbiuzbhdd8mr033nmf8gsfxc1mh3z0gjaakug0wsyztshc7qj7wi8p5zb\",\"zoneType\":\"Z\"},\"xr1w1ty2ti6qukbiuzbhdd8mr033nmf8gsfxc1tnwyii1e4wiiigkar08y3psnfshoiihe\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"right\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"5000\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1w1ty2ti6qukbiuzbhdd8mr033nmf8gsfxc1tnwyii1e4wiiigkar08y3psnfshoiihe\",\"zoneType\":\"Z\"},\"xr16a4kg1ms15r3v6p4dzsw6crfpddtcu1bxc1mh3z0gjaakug0wsyztshc7qj7wi8p5zb\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"Thuế GTGT sẽ được TikTok thu và thanh toán cho cơ quan thuế\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr16a4kg1ms15r3v6p4dzsw6crfpddtcu1bxc1mh3z0gjaakug0wsyztshc7qj7wi8p5zb\",\"zoneType\":\"Z\"},\"xr16a4kg1ms15r3v6p4dzsw6crfpddtcu1bxc1tnwyii1e4wiiigkar08y3psnfshoiihe\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"right\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"(5000/(1+10%))*10% = 455\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr16a4kg1ms15r3v6p4dzsw6crfpddtcu1bxc1tnwyii1e4wiiigkar08y3psnfshoiihe\",\"zoneType\":\"Z\"},\"xr1rn6wdmvfbridd3dvk0nn36w4y9hpm08cxc1mh3z0gjaakug0wsyztshc7qj7wi8p5zb\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"Thuế TNDN sẽ được TikTok thu và thanh toán cho cơ quan thuế\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1rn6wdmvfbridd3dvk0nn36w4y9hpm08cxc1mh3z0gjaakug0wsyztshc7qj7wi8p5zb\",\"zoneType\":\"Z\"},\"xr1rn6wdmvfbridd3dvk0nn36w4y9hpm08cxc1tnwyii1e4wiiigkar08y3psnfshoiihe\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"right\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"(5000/(1+10%))*5% = 227\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1rn6wdmvfbridd3dvk0nn36w4y9hpm08cxc1tnwyii1e4wiiigkar08y3psnfshoiihe\",\"zoneType\":\"Z\"},\"xr1e3edmlfzshy9rgl6qtrpe5nsmggcleclxc1mh3z0gjaakug0wsyztshc7qj7wi8p5zb\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"Tổng số tiền Nhà bán hàng phải trả TikTok được ghi trên hóa đơn\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"(Số tiền \"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\",\"bold\":\"true\"},\"insert\":\"bao gồm\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\" Thuế Việt Nam)\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1e3edmlfzshy9rgl6qtrpe5nsmggcleclxc1mh3z0gjaakug0wsyztshc7qj7wi8p5zb\",\"zoneType\":\"Z\"},\"xr1e3edmlfzshy9rgl6qtrpe5nsmggcleclxc1tnwyii1e4wiiigkar08y3psnfshoiihe\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"right\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"5000\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1e3edmlfzshy9rgl6qtrpe5nsmggcleclxc1tnwyii1e4wiiigkar08y3psnfshoiihe\",\"zoneType\":\"Z\"},\"xr1n18y20t7th971vymqogoe4frbzw7frcoxc1mh3z0gjaakug0wsyztshc7qj7wi8p5zb\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"left\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"Số tiền thực thanh toán cho TikTok\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1n18y20t7th971vymqogoe4frbzw7frcoxc1mh3z0gjaakug0wsyztshc7qj7wi8p5zb\",\"zoneType\":\"Z\"},\"xr1n18y20t7th971vymqogoe4frbzw7frcoxc1tnwyii1e4wiiigkar08y3psnfshoiihe\":{\"ops\":[{\"attributes\":{\"lmkr\":\"1\",\"align\":\"right\"},\"insert\":\"*\"},{\"attributes\":{\"fontcolor\":\"#000000\",\"fontsize\":\"10pt\"},\"insert\":\"5000\"},{\"insert\":\"\\n\"}],\"zoneId\":\"xr1n18y20t7th971vymqogoe4frbzw7frcoxc1tnwyii1e4wiiigkar08y3psnfshoiihe\",\"zoneType\":\"Z\"},\"rs79dap8ydqcak5vofug0w0s7lu1pl4f7i\":{\"ops\":[{\"attributes\":{\"backgroundColor\":\"{\\\"vn4mpfu3\\\":\\\"\\\"}\",\"border\":\"{\\\"atucwl54\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"}}\",\"valign\":\"{\\\"tocd2trg\\\":\\\"top\\\"}\",\"padding\":\"{\\\"0rnds0j8\\\":\\\"8px 8px 8px 8px\\\"}\",\"rowHeight\":\"39\"},\"insert\":{\"id\":\"r1w1ty2ti6qukbiuzbhdd8mr033nmf8gsf\"}},{\"attributes\":{\"backgroundColor\":\"{\\\"tkro3a0i\\\":\\\"\\\"}\",\"border\":\"{\\\"1j6vd5jy\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"}}\",\"valign\":\"{\\\"b5plw6fb\\\":\\\"top\\\"}\",\"padding\":\"{\\\"hlvbvhct\\\":\\\"8px 8px 8px 8px\\\"}\",\"rowHeight\":\"39\"},\"insert\":{\"id\":\"r16a4kg1ms15r3v6p4dzsw6crfpddtcu1b\"}},{\"attributes\":{\"backgroundColor\":\"{\\\"hot95lsh\\\":\\\"\\\"}\",\"border\":\"{\\\"ygwddvmc\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"}}\",\"valign\":\"{\\\"yjidyedf\\\":\\\"top\\\"}\",\"padding\":\"{\\\"qm2vd0hn\\\":\\\"8px 8px 8px 8px\\\"}\",\"rowHeight\":\"39\"},\"insert\":{\"id\":\"r1rn6wdmvfbridd3dvk0nn36w4y9hpm08c\"}},{\"attributes\":{\"backgroundColor\":\"{\\\"35iqcq73\\\":\\\"\\\"}\",\"border\":\"{\\\"ib0hqpfn\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"}}\",\"valign\":\"{\\\"2l06hfok\\\":\\\"top\\\"}\",\"padding\":\"{\\\"s1k151f7\\\":\\\"8px 8px 8px 8px\\\"}\",\"rowHeight\":\"39\"},\"insert\":{\"id\":\"r1e3edmlfzshy9rgl6qtrpe5nsmggclecl\"}},{\"attributes\":{\"backgroundColor\":\"{\\\"64fv55i7\\\":\\\"\\\"}\",\"border\":\"{\\\"6hwgr25b\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"}}\",\"valign\":\"{\\\"alhyvr9t\\\":\\\"top\\\"}\",\"padding\":\"{\\\"on238gku\\\":\\\"8px 8px 8px 8px\\\"}\",\"rowHeight\":\"39\"},\"insert\":{\"id\":\"r1n18y20t7th971vymqogoe4frbzw7frco\"}}],\"zoneId\":\"rs79dap8ydqcak5vofug0w0s7lu1pl4f7i\",\"zoneType\":\"R\"},\"cszwdqs1iakffllwhe77bak51hggwv2vzg\":{\"ops\":[{\"attributes\":{\"colWidth\":\"409\"},\"insert\":{\"id\":\"c1mh3z0gjaakug0wsyztshc7qj7wi8p5zb\"}},{\"attributes\":{\"colWidth\":\"365\",\"backgroundColor\":\"{\\\"vn4mpfu3\\\":\\\"\\\",\\\"tkro3a0i\\\":\\\"\\\",\\\"hot95lsh\\\":\\\"\\\",\\\"35iqcq73\\\":\\\"\\\",\\\"64fv55i7\\\":\\\"\\\"}\",\"border\":\"{\\\"atucwl54\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"},\\\"1j6vd5jy\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"},\\\"ygwddvmc\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"},\\\"ib0hqpfn\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"},\\\"6hwgr25b\\\":{\\\"left\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"right\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"top\\\":\\\"1px solid rgb(222, 224, 227)\\\",\\\"bottom\\\":\\\"1px solid rgb(222, 224, 227)\\\"}}\",\"valign\":\"{\\\"tocd2trg\\\":\\\"top\\\",\\\"b5plw6fb\\\":\\\"top\\\",\\\"yjidyedf\\\":\\\"top\\\",\\\"2l06hfok\\\":\\\"top\\\",\\\"alhyvr9t\\\":\\\"top\\\"}\",\"padding\":\"{\\\"0rnds0j8\\\":\\\"8px 8px 8px 8px\\\",\\\"hlvbvhct\\\":\\\"8px 8px 8px 8px\\\",\\\"qm2vd0hn\\\":\\\"8px 8px 8px 8px\\\",\\\"s1k151f7\\\":\\\"8px 8px 8px 8px\\\",\\\"on238gku\\\":\\\"8px 8px 8px 8px\\\"}\"},\"insert\":{\"id\":\"c1tnwyii1e4wiiigkar08y3psnfshoiihe\"}}],\"zoneId\":\"cszwdqs1iakffllwhe77bak51hggwv2vzg\",\"zoneType\":\"C\"}},\"attachments\":[{\"id\":\"tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975\",\"type\":\"image\",\"url\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2070609225&x-signature=9k3FPkDFm62vtWMAmztYY8OW9q0%3D\"},{\"id\":\"tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975\",\"type\":\"image\",\"url\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2070609225&x-signature=9k3FPkDFm62vtWMAmztYY8OW9q0%3D\"},{\"id\":\"tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975\",\"type\":\"image\",\"url\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2070609225&x-signature=9k3FPkDFm62vtWMAmztYY8OW9q0%3D\"},{\"id\":\"tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975\",\"type\":\"image\",\"url\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&x-expires=2070609225&x-signature=9k3FPkDFm62vtWMAmztYY8OW9q0%3D\"},{\"id\":\"tos-alisg-i-nk3i2mqmvs-sg/db0592f745c541e6967ce9b2075b942f\",\"type\":\"image\",\"url\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/db0592f745c541e6967ce9b2075b942f~tplv-nk3i2mqmvs-image.png?x-expires=2017902865&x-signature=hGAeo5JD3jubqm25nLktkFv57LE%3D\"},{\"id\":\"tos-alisg-i-nk3i2mqmvs-sg/01938bae952f4dfe8181f9822755a63b\",\"type\":\"image\",\"url\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/01938bae952f4dfe8181f9822755a63b~tplv-nk3i2mqmvs-image.png?x-expires=2017902863&x-signature=HB1RR%2FF5Dje2GAl604uXWFlEOHo%3D\"},{\"id\":\"tos-alisg-i-nk3i2mqmvs-sg/2f04e209bb9043dbab123a139b86d4fd\",\"type\":\"image\",\"name\":\"Tax 2 MB VN.jpeg\",\"url\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/2f04e209bb9043dbab123a139b86d4fd~tplv-nk3i2mqmvs-image.jpeg?x-expires=2017902942&x-signature=QXWqRcy5BewRfrsJS8jc8rT6o7g%3D\"},{\"id\":\"tos-alisg-i-nk3i2mqmvs-sg/db0592f745c541e6967ce9b2075b942f\",\"type\":\"image\",\"url\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/db0592f745c541e6967ce9b2075b942f~tplv-nk3i2mqmvs-image.png?x-expires=2017902865&x-signature=hGAeo5JD3jubqm25nLktkFv57LE%3D\"},{\"id\":\"tos-alisg-i-nk3i2mqmvs-sg/01938bae952f4dfe8181f9822755a63b\",\"type\":\"image\",\"url\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/01938bae952f4dfe8181f9822755a63b~tplv-nk3i2mqmvs-image.png?x-expires=2017902863&x-signature=HB1RR%2FF5Dje2GAl604uXWFlEOHo%3D\"},{\"id\":\"tos-alisg-i-nk3i2mqmvs-sg/1697f14b94e84276a9deb8edabe1440a\",\"type\":\"image\",\"url\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/1697f14b94e84276a9deb8edabe1440a~tplv-nk3i2mqmvs-image.png?x-expires=2017902863&x-signature=KtCslMu5ygGCrbhsJUHYifyh6pY%3D\"},{\"id\":\"tos-alisg-i-nk3i2mqmvs-sg/06eb422c1e75482db0ebe1542e03b9c5\",\"type\":\"image\",\"url\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/06eb422c1e75482db0ebe1542e03b9c5~tplv-nk3i2mqmvs-image.jpeg?x-expires=2017902862&x-signature=53MWUR9mUk0SjhsjroSCQbzGIZE%3D\"},{\"id\":\"tos-alisg-i-nk3i2mqmvs-sg/2f04e209bb9043dbab123a139b86d4fd\",\"type\":\"image\",\"name\":\"Tax 2 MB VN.jpeg\",\"url\":\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/2f04e209bb9043dbab123a139b86d4fd~tplv-nk3i2mqmvs-image.jpeg?x-expires=2017902942&x-signature=QXWqRcy5BewRfrsJS8jc8rT6o7g%3D\"}]}",
+        "knowledge_plain_content": "Từ ngày 1 tháng 7 năm 2025, theo Thông tư 86/2024/TT-BTC, mã số thuế của Nhà bán hàng cá nhân và hộ kinh doanh sẽ được thay thế bởi mã định danh cá nhân 12 chữ số (CCCD) do Nhà bán hàng cung cấp khi đăng kí tài khoản trên nền tảng.\n \nCăn cứ quy định tại Luật Thuế Giá trị Gia tăng số 48/2024/QH15, từ ngày 01 tháng 07 năm 2025, thuế suất áp dụng cho dịch vụ được các nhà cung cấp nước ngoài không có cơ sở thường trú tại Việt Nam cung cấp cho tổ chức, cá nhân tại Việt Nam qua kênh thương mại điện tử và các nền tảng số tăng lên 10%.\nNếu tổ chức của Nhà bán hàng đã đăng ký thuế tại Việt Nam, vui lòng cung cấp Mã số thuế của Tổ chức (\"Mã số thuế\") cho TikTok. Sau khi Mã số thuế được xác minh, các khoản phí mà TikTok thu sẽ là số tiền chưa bao gồm khoản thuế của Việt Nam. Bạn sẽ chịu trách nhiệm chịu thuế, báo cáo và nộp Thuế của VN cho TikTok đến cơ quan thuế Việt Nam đối với Phí Dịch Vụ.\nNếu tổ chức của Nhà bán hàng không đăng ký thuế tại Việt Nam hoặc Mã số thuế được cung cấp chưa được xác minh, các khoản phí mà TikTok thu sẽ bao gồm các khoản thuế của Việt Nam. Chúng tôi sẽ chịu trách trách nhiệm báo cáo và nộp Thuế của Việt Nam phát sinh từ các Phí Dịch vụ của Quý khách hàng.\nCác khoản thuế của Việt Nam bao gồm cả Thuế giá trị gia tăng (“GTGT”) và Thuế thu nhập doanh nghiệp (“CIT”). Hiện tại, phí nền tảng của TikTok Shop chịu thuế suất 10% thuế GTGT và 5% thuế TNDN.\n \nVào ngày 29 tháng 9 năm 2021, Bộ tài chính Việt Nam đã ban hành Thông tư 80/2021/TT-BTC hướng dẫn triển khai Luật quản lý thuế và Nghị định chính phủ 126/2020/ND-CP, có hiệu lực từ ngày 1 tháng 1 năm 2022. Để tuân thủ nội dung cập nhật của luật thuế địa phương, TikTok Pte. Ltd. (“TikTok”) sẽ tiến hành đăng ký thuế Việt Nam và chịu trách nhiệm nộp thuế tại Việt Nam với các khoản phí mà TikTok thu khi Nhà bán hàng sử dụng TikTok Shop. \n \nMinh họa cách tính thuế\nNếu Nhà bán hàng doanh nghiệp đã cung cấp mã số thuế và mã số thuế đã được xác minh:\n*\nNếu Nhà bán hàng doanh nghiệp chưa cung cấp mã số thuế hoặc mã số thuế được cung cấp chưa được xác minh:\n*\n \nLàm thế nào để cung cấp Mã số thuế trên TikTok Shop?\nNhà Bán Hàng Cá Nhân và Hộ Kinh Doanh\nMã số thuế của Nhà bán hàng cá nhân và hộ kinh doanh mới đăng kí sẽ mặc định là mã định danh cá nhân 12 chữ số (CCCD) do Nhà bán hàng cung cấp khi đăng kí tài khoản trên nền tảng.\nNhà bán hàng cá nhân và hộ kinh doanh hiện đang hoạt động trên nền tảng, nếu từng cung cấp thông tin mã số thuế, thì mã số thuế này sẽ được thay thế bởi mã định danh cá nhân 12 chữ số (CCCD) do Nhà bán hàng cung cấp khi đăng kí tài khoản trên nền tảng.\nNếu Nhà bán hàng chưa từng cung cấp mã định danh cá nhân nhưng đã cung cấp mã số thuế, thì mã số thuế sẽ giữ nguyên.\nĐể cập nhật thông tin thuế:\nNếu cần cập nhật mã số thuế/mã định danh cá nhân, Nhà bán hàng cần liệc lạc với nhân viên quản lý tài khoản từ nền tảng (AM), hoặc gửi yêu cầu trên Trung tâm hỗ trợ.\nĐể cập nhật địa chỉ hoá đơn, truy cập:\nTrên máy tính: Trung tâm Nhà bán hàng TikTok Shop > Tài khoản của tôi > Cài đặt tài khoản > Thuế hoặc Trung tâm Nhà bán hàng TikTok Shop > Tài chính > Trung tâm hoá đơn, bấm \"Đi tới thông tin thuế\" \n \n \nTrên ứng dụng di động: Cài đặt > Thông tin thuế \n \nNhà Bán Hàng Doanh Nghiệp\nTrên Trung tâm Nhà bán hàng trên máy tính\"\nTruy cập Trung tâm Nhà bán hàng TikTok Shop > Tài khoản của tôi > Cài đặt tài khoản > Thuế \n \nHoặc truy cập Trung tâm Nhà bán hàng TikTok Shop > Tài chính > Trung tâm hoá đơn, bấm \"Đi tới thông tin thuế\" \n \nĐiền mã số thuế (tax code) và địa chỉ hoá đơn\n \nTrên ưng dụng Seller Center điện thoại\nTruy cập Cài đặt > Thông tin thuế \n \nĐiền mã số thuế (tax code) và địa chỉ hoá đơn \n \n\n\n\nPhí dịch vụ TikTok(bao gồm Thuế Việt Nam)5000Thuế GTGT mà Nhà bán hàng phải chịu và thanh toán thay cho TikTok5000*10%=500Thuế TNDN mà Nhà bán hàng phải chịu và thanh toán thay cho TikTok(5000-5000*10%)*5%=225Tổng số tiền Nhà bán hàng phải trả TikTok được ghi trên hóa đơn(Số tiền không bao gồm Thuế Việt Nam)Phí dịch vụ - Thuế GTGT - Thuế CIT  = 5000 - 500 - 225 = 4275Số tiền thực thanh toán cho TikTok4275\nPhí dịch vụ TikTok(bao gồm Thuế Việt Nam)5000Thuế GTGT sẽ được TikTok thu và thanh toán cho cơ quan thuế(5000/(1+10%))*10% = 455Thuế TNDN sẽ được TikTok thu và thanh toán cho cơ quan thuế(5000/(1+10%))*5% = 227Tổng số tiền Nhà bán hàng phải trả TikTok được ghi trên hóa đơn(Số tiền bao gồm Thuế Việt Nam)5000Số tiền thực thanh toán cho TikTok5000",
+        "description": "",
+        "keywords": ""
+      },
+      "knowledge_content": "<div class=\"converted-html\"><div style=\"text-align:left\">Từ ngày 1 tháng 7 năm 2025, theo Thông tư 86/2024/TT-BTC, mã số thuế của Nhà bán hàng cá nhân và hộ kinh doanh sẽ được thay thế bởi mã định danh cá nhân 12 chữ số (CCCD) do Nhà bán hàng cung cấp khi đăng kí tài khoản trên nền tảng.</div><div style=\"text-align:center\"><img src=\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&amp;x-expires=2070609225&amp;x-signature=9k3FPkDFm62vtWMAmztYY8OW9q0%3D\" alt=\"image\" style=\"max-width:100%;height:auto;\" data-action=\"open-image\" /></div><span style=\"color:#000000\">Căn cứ quy định tại Luật Thuế Giá trị Gia tăng số 48/2024/QH15, từ ngày 01 tháng 07 năm 2025, thuế suất áp dụng cho dịch vụ được các nhà cung cấp nước ngoài không có cơ sở thường trú tại Việt Nam cung cấp cho tổ chức, cá nhân tại Việt Nam qua kênh thương mại điện tử và các nền tảng số tăng lên 10%.</span><span class=\"soft-break\" aria-hidden=\"true\"></span><ul style=\"list-style-type: disc\"><li><span style=\"color:#000000\">Nếu tổ chức của Nhà bán hàng đã đăng ký thuế tại Việt Nam, vui lòng cung cấp Mã số thuế của Tổ chức (&quot;Mã số thuế&quot;) cho TikTok. Sau khi Mã số thuế được xác minh, các khoản phí mà TikTok thu sẽ là </span><span style=\"color:#000000\"><strong>số tiền chưa bao gồm khoản thuế của Việt Nam</strong></span><span style=\"color:#000000\">. Bạn sẽ chịu trách nhiệm chịu thuế, báo cáo và nộp Thuế của VN cho TikTok đến cơ quan thuế Việt Nam đối với Phí Dịch Vụ.</span></li><li><span style=\"color:#000000\">Nếu tổ chức của Nhà bán hàng không đăng ký thuế tại Việt Nam hoặc Mã số thuế được cung cấp chưa được xác minh, các khoản phí mà TikTok thu sẽ </span><span style=\"color:#000000\"><strong>bao gồm các khoản thuế của Việt Nam</strong></span><span style=\"color:#000000\">. Chúng tôi sẽ chịu trách trách nhiệm báo cáo và nộp Thuế của Việt Nam phát sinh từ các Phí Dịch vụ của Quý khách hàng.</span></li><li><span style=\"color:#000000\">Các khoản thuế của Việt Nam bao gồm cả Thuế giá trị gia tăng (“GTGT”) và Thuế thu nhập doanh nghiệp (“CIT”). Hiện tại, phí nền tảng của TikTok Shop chịu thuế suất 10% thuế GTGT và 5% thuế TNDN.</span><div style=\"text-align:center\"><img src=\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&amp;x-expires=2070609225&amp;x-signature=9k3FPkDFm62vtWMAmztYY8OW9q0%3D\" alt=\"image\" style=\"max-width:100%;height:auto;\" data-action=\"open-image\" /></div></li></ul><div style=\"text-align:left\"><span style=\"color:#000000\">Vào ngày 29 tháng 9 năm 2021, Bộ tài chính Việt Nam đã ban hành Thông tư 80/2021/TT-BTC hướng dẫn triển khai Luật quản lý thuế và Nghị định chính phủ 126/2020/ND-CP, có hiệu lực từ ngày 1 tháng 1 năm 2022. Để tuân thủ nội dung cập nhật của luật thuế địa phương, TikTok Pte. Ltd. (“TikTok”) sẽ tiến hành đăng ký thuế Việt Nam và chịu trách nhiệm nộp thuế tại Việt Nam với các khoản phí mà TikTok thu khi Nhà bán hàng sử dụng TikTok Shop. </span></div><div style=\"text-align:center\"><img src=\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&amp;x-expires=2070609225&amp;x-signature=9k3FPkDFm62vtWMAmztYY8OW9q0%3D\" alt=\"image\" style=\"max-width:100%;height:auto;\" data-action=\"open-image\" /></div><h2 style=\"text-align:left\" id=\"minh-h-a-c-ch-t-nh-thu-\" data-legacy-id=\"EBCE00CE\" class=\"copyable\" data-action=\"copy-link\"><span style=\"color:#000000\">Minh họa cách tính thuế</span></h2><ul style=\"list-style-type: disc\"><li><span style=\"color:#000000\">Nếu Nhà bán hàng doanh nghiệp đã cung cấp mã số thuế và mã số thuế đã được xác minh:</span></li></ul><div class=\"table-scroll\" role=\"region\" tabindex=\"0\"><table style=\"border-collapse:collapse;margin:12px 0;font-size:14px;min-width:200px;max-width:99%;display:table;table-layout:auto\" width=\"760\"><tbody><tr style=\"height:39px\"><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:395px\"><div style=\"text-align:left\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">Phí dịch vụ TikTok</span></span></div><div style=\"text-align:left\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">(bao gồm Thuế Việt Nam)</span></span></div></td><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:365px\"><div style=\"text-align:right\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">5000</span></span></div></td></tr><tr style=\"height:39px\"><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:395px\"><div style=\"text-align:left\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">Thuế GTGT mà Nhà bán hàng phải chịu và thanh toán thay cho TikTok</span></span></div></td><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:365px\"><div style=\"text-align:right\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">5000*10%=500</span></span></div><span class=\"soft-break\" aria-hidden=\"true\"></span></td></tr><tr style=\"height:39px\"><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:395px\"><div style=\"text-align:left\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">Thuế TNDN mà Nhà bán hàng phải chịu và thanh toán thay cho TikTok</span></span></div></td><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:365px\"><div style=\"text-align:right\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">(5000-5000*10%)*5%=225</span></span></div></td></tr><tr style=\"height:39px\"><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:395px\"><div style=\"text-align:left\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">Tổng số tiền Nhà bán hàng phải trả TikTok được ghi trên hóa đơn</span></span></div><div style=\"text-align:left\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">(Số tiền </span></span><span style=\"font-size:10pt\"><span style=\"color:#000000\"><strong>không</strong></span></span><span style=\"font-size:10pt\"><span style=\"color:#000000\"> bao gồm Thuế Việt Nam)</span></span></div></td><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:365px\"><div style=\"text-align:right\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">Phí dịch vụ - Thuế GTGT - Thuế CIT </span></span></div><div style=\"text-align:right\"><span style=\"font-size:10pt\"><span style=\"color:#000000\"> = 5000 - 500 - 225 </span></span></div><div style=\"text-align:right\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">= 4275</span></span></div></td></tr><tr style=\"height:39px\"><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:395px\"><div style=\"text-align:left\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">Số tiền thực thanh toán cho TikTok</span></span></div></td><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:365px\"><div style=\"text-align:right\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">4275</span></span></div></td></tr></tbody></table></div><span class=\"soft-break\" aria-hidden=\"true\"></span><ul style=\"list-style-type: disc\"><li><span style=\"color:#000000\">Nếu Nhà bán hàng doanh nghiệp chưa cung cấp mã số thuế hoặc mã số thuế được cung cấp chưa được xác minh:</span></li></ul><div class=\"table-scroll\" role=\"region\" tabindex=\"0\"><table style=\"border-collapse:collapse;margin:12px 0;font-size:14px;min-width:200px;max-width:99%;display:table;table-layout:auto\" width=\"774\"><tbody><tr style=\"height:39px\"><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:409px\"><div style=\"text-align:left\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">Phí dịch vụ TikTok</span></span></div><div style=\"text-align:left\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">(bao gồm Thuế Việt Nam)</span></span></div></td><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:365px\"><div style=\"text-align:right\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">5000</span></span></div></td></tr><tr style=\"height:39px\"><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:409px\"><div style=\"text-align:left\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">Thuế GTGT sẽ được TikTok thu và thanh toán cho cơ quan thuế</span></span></div></td><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:365px\"><div style=\"text-align:right\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">(5000/(1+10%))*10% = 455</span></span></div></td></tr><tr style=\"height:39px\"><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:409px\"><div style=\"text-align:left\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">Thuế TNDN sẽ được TikTok thu và thanh toán cho cơ quan thuế</span></span></div></td><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:365px\"><div style=\"text-align:right\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">(5000/(1+10%))*5% = 227</span></span></div></td></tr><tr style=\"height:39px\"><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:409px\"><div style=\"text-align:left\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">Tổng số tiền Nhà bán hàng phải trả TikTok được ghi trên hóa đơn</span></span></div><div style=\"text-align:left\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">(Số tiền </span></span><span style=\"font-size:10pt\"><span style=\"color:#000000\"><strong>bao gồm</strong></span></span><span style=\"font-size:10pt\"><span style=\"color:#000000\"> Thuế Việt Nam)</span></span></div></td><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:365px\"><div style=\"text-align:right\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">5000</span></span></div></td></tr><tr style=\"height:39px\"><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:409px\"><div style=\"text-align:left\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">Số tiền thực thanh toán cho TikTok</span></span></div></td><td style=\"border:1px solid #e5e7eb;padding:8px;vertical-align:top;width:365px\"><div style=\"text-align:right\"><span style=\"font-size:10pt\"><span style=\"color:#000000\">5000</span></span></div></td></tr></tbody></table></div><span class=\"soft-break\" aria-hidden=\"true\"></span><div style=\"text-align:center\"><img src=\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/5aa177e377fa47faba9eb9a573e13975~tplv-nk3i2mqmvs-image.png?lk3s=5d1a069b&amp;x-expires=2070609225&amp;x-signature=9k3FPkDFm62vtWMAmztYY8OW9q0%3D\" alt=\"image\" style=\"max-width:100%;height:auto;\" data-action=\"open-image\" /></div><h2 style=\"text-align:left\" id=\"l-m-th-n-o-cung-c-p-m-s-thu-tr-n-tiktok-shop-\" data-legacy-id=\"EBEB00CD\" class=\"copyable\" data-action=\"copy-link\"><span style=\"color:#000000\">Làm thế nào để cung cấp Mã số thuế trên TikTok Shop?</span></h2><h3 style=\"text-align:left\" id=\"nh-b-n-h-ng-c-nh-n-v-h-kinh-doanh\" data-legacy-id=\"EBD500CE\" class=\"copyable\" data-action=\"copy-link\">Nhà Bán Hàng Cá Nhân và Hộ Kinh Doanh\n</h3>Mã số thuế của Nhà bán hàng cá nhân và hộ kinh doanh mới đăng kí sẽ mặc định là mã định danh cá nhân 12 chữ số (CCCD) do Nhà bán hàng cung cấp khi đăng kí tài khoản trên nền tảng.<br/><div class=\"space\"></div>Nhà bán hàng cá nhân và hộ kinh doanh hiện đang hoạt động trên nền tảng, nếu từng cung cấp thông tin mã số thuế, thì mã số thuế này sẽ được thay thế bởi mã định danh cá nhân 12 chữ số (CCCD) do Nhà bán hàng cung cấp khi đăng kí tài khoản trên nền tảng.<br/><div class=\"space\"></div>Nếu Nhà bán hàng chưa từng cung cấp mã định danh cá nhân nhưng đã cung cấp mã số thuế, thì mã số thuế sẽ giữ nguyên.<br/><div class=\"space\"></div>Để cập nhật thông tin thuế:<br/><div class=\"space\"></div><ul style=\"list-style-type: disc\"><li>Nếu cần cập nhật mã số thuế/mã định danh cá nhân, Nhà bán hàng cần liệc lạc với nhân viên quản lý tài khoản từ nền tảng (AM), hoặc gửi yêu cầu trên <a href=\"https://seller-vn.tiktok.com/ticket/faq\" target=\"_blank\" title=\"https://seller-vn.tiktok.com/ticket/faq\" data-tooltip=\"https://seller-vn.tiktok.com/ticket/faq\">Trung tâm hỗ trợ</a>.</li><li>Để cập nhật địa chỉ hoá đơn, truy cập:<ul style=\"list-style-type: circle\"><li>Trên máy tính: <a href=\"https://seller-vn.tiktok.com/profile/account-setting/tax-infomation\" target=\"_blank\" title=\"https://seller-vn.tiktok.com/profile/account-setting/tax-infomation\" data-tooltip=\"https://seller-vn.tiktok.com/profile/account-setting/tax-infomation\">Trung tâm Nhà bán hàng TikTok Shop &gt; Tài khoản của tôi &gt; Cài đặt tài khoản &gt; Thuế</a> hoặc <a href=\"https://seller-vn.tiktok.com/finance/invoice\" target=\"_blank\" title=\"https://seller-vn.tiktok.com/finance/invoice\" data-tooltip=\"https://seller-vn.tiktok.com/finance/invoice\">Trung tâm Nhà bán hàng TikTok Shop &gt; Tài chính &gt; Trung tâm hoá đơn</a>, bấm &quot;Đi tới thông tin thuế&quot; <div style=\"text-align:center\"><img src=\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/db0592f745c541e6967ce9b2075b942f~tplv-nk3i2mqmvs-image.png?x-expires=2017902865&amp;x-signature=hGAeo5JD3jubqm25nLktkFv57LE%3D\" alt=\"image\" style=\"max-width:100%;height:auto;\" data-action=\"open-image\" /></div><div style=\"text-align:center\"><img src=\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/01938bae952f4dfe8181f9822755a63b~tplv-nk3i2mqmvs-image.png?x-expires=2017902863&amp;x-signature=HB1RR%2FF5Dje2GAl604uXWFlEOHo%3D\" alt=\"image\" style=\"max-width:100%;height:auto;\" data-action=\"open-image\" /></div></li><li>Trên ứng dụng di động: <strong>Cài đặt &gt; Thông tin thuế </strong><img src=\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/2f04e209bb9043dbab123a139b86d4fd~tplv-nk3i2mqmvs-image.jpeg?x-expires=2017902942&amp;x-signature=QXWqRcy5BewRfrsJS8jc8rT6o7g%3D\" alt=\"Tax 2 MB VN.jpeg\" style=\"max-width:100%;height:auto;\" data-action=\"open-image\" /></li></ul></li></ul><h2 id=\"nh-b-n-h-ng-doanh-nghi-p\" data-legacy-id=\"EC0800CC\" class=\"copyable\" data-action=\"copy-link\">Nhà Bán Hàng Doanh Nghiệp\n</h2><ul style=\"list-style-type: disc\"><li><span style=\"color:#000000\">Trên Trung tâm Nhà bán hàng trên máy tính&quot;</span><ul style=\"list-style-type: circle\"><li><span style=\"color:#000000\">Truy cập </span><a href=\"https://seller-vn.tiktok.com/profile/account-setting/tax-infomation\" target=\"_blank\" title=\"https://seller-vn.tiktok.com/profile/account-setting/tax-infomation\" data-tooltip=\"https://seller-vn.tiktok.com/profile/account-setting/tax-infomation\"><span style=\"color:#000000\">Trung tâm Nhà bán hàng TikTok Shop &gt; Tài khoản của tôi &gt; Cài đặt tài khoản &gt; Thuế</span></a><span style=\"color:#000000\"><strong> </strong></span><div style=\"text-align:center\"><img src=\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/db0592f745c541e6967ce9b2075b942f~tplv-nk3i2mqmvs-image.png?x-expires=2017902865&amp;x-signature=hGAeo5JD3jubqm25nLktkFv57LE%3D\" alt=\"image\" style=\"max-width:100%;height:auto;\" data-action=\"open-image\" /></div></li><li><span style=\"color:#000000\">Hoặc truy cập </span><a href=\"https://seller-vn.tiktok.com/finance/invoice\" target=\"_blank\" title=\"https://seller-vn.tiktok.com/finance/invoice\" data-tooltip=\"https://seller-vn.tiktok.com/finance/invoice\"><span style=\"color:#000000\">Trung tâm Nhà bán hàng TikTok Shop &gt; Tài chính &gt; Trung tâm hoá đơn</span></a><span style=\"color:#000000\">, bấm &quot;Đi tới thông tin thuế&quot; </span><div style=\"text-align:center\"><img src=\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/01938bae952f4dfe8181f9822755a63b~tplv-nk3i2mqmvs-image.png?x-expires=2017902863&amp;x-signature=HB1RR%2FF5Dje2GAl604uXWFlEOHo%3D\" alt=\"image\" style=\"max-width:100%;height:auto;\" data-action=\"open-image\" /></div></li><li><span style=\"color:#000000\">Điền mã số thuế (tax code) và địa chỉ hoá đơn</span><div style=\"text-align:center\"><img src=\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/1697f14b94e84276a9deb8edabe1440a~tplv-nk3i2mqmvs-image.png?x-expires=2017902863&amp;x-signature=KtCslMu5ygGCrbhsJUHYifyh6pY%3D\" alt=\"image\" style=\"max-width:100%;height:auto;\" data-action=\"open-image\" /></div></li></ul></li><li><span style=\"color:#000000\">Trên ưng dụng Seller Center điện thoại</span><ul style=\"list-style-type: circle\"><li><span style=\"color:#000000\">Truy cập </span><span style=\"color:#000000\"><strong>Cài đặt &gt; Thông tin thuế </strong></span><div style=\"text-align:center\"><img src=\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/06eb422c1e75482db0ebe1542e03b9c5~tplv-nk3i2mqmvs-image.jpeg?x-expires=2017902862&amp;x-signature=53MWUR9mUk0SjhsjroSCQbzGIZE%3D\" alt=\"image\" style=\"max-width:100%;height:auto;\" data-action=\"open-image\" /></div></li><li><span style=\"color:#000000\">Điền mã số thuế (tax code) và địa chỉ hoá đơn </span><img src=\"https://p16-oec-university-sign-sg.ibyteimg.com/tos-alisg-i-nk3i2mqmvs-sg/2f04e209bb9043dbab123a139b86d4fd~tplv-nk3i2mqmvs-image.jpeg?x-expires=2017902942&amp;x-signature=QXWqRcy5BewRfrsJS8jc8rT6o7g%3D\" alt=\"Tax 2 MB VN.jpeg\" style=\"max-width:100%;height:auto;\" data-action=\"open-image\" /></li></ul></li></ul></div>",
+      "sources": [
+        {
+          "source_id": 7367685684479746,
+          "source_name": "Học viện",
+          "content_id": 7367685684430594
+        },
+        {
+          "source_id": 1989854787323649,
+          "source_name": "Hướng dẫn Tính năng",
+          "content_id": 1989854787290881
+        },
+        {
+          "source_id": 1989854787421953,
+          "source_name": "Seller",
+          "content_id": 1989854787389185
+        },
+        {
+          "source_id": 7508128079120129,
+          "source_name": "Tài chính",
+          "content_id": 7508128079070977
+        },
+        {
+          "source_id": 7508598726166274,
+          "source_name": "Thuế",
+          "content_id": 7508598726117122
+        }
+      ],
+      "prev_knowledge": {
+        "learning_id": 6203651052209921,
+        "learning_type": 2,
+        "name": "Hướng Dẫn Kê Khai Thuế cho Chi Phí Hoa Hồng trên TikTok Shop"
+      },
+      "next_knowledge": {
+        "learning_id": 2632156783101712,
+        "learning_type": 2,
+        "name": "Khấu Trừ Thuế cho Nhà Bán Hàng Cá Nhân và Hộ Kinh Doanh"
+      },
+      "rec_content": [],
+      "sidebar_contents": {
+        "content_id": 1989854787389185,
+        "content_name": "Seller",
+        "content_type": 1,
+        "sub_contents": [
+          {
+            "content_id": 7511828331136770,
+            "content_name": "Đăng ký",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 6837778147297025,
+                "content_name": "Quy Trình Đăng Ký Tài Khoản của Nhà Bán Hàng",
+                "content_type": 2
+              },
+              {
+                "content_id": 6844594436736770,
+                "content_name": "Lộ trình dành cho Nhà bán hàng TikTok Shop",
+                "content_type": 2
+              },
+              {
+                "content_id": 8127545464243969,
+                "content_name": "Quy trình thay đổi Quyền sở hữu cửa hàng",
+                "content_type": 2
+              },
+              {
+                "content_id": 3699507599542033,
+                "content_name": "Giao Diện Mới của Trung Tâm Nhà Bán Hàng",
+                "content_type": 2
+              }
+            ]
+          },
+          {
+            "content_id": 7511828331202306,
+            "content_name": "Trang chủ",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 6837795792439042,
+                "content_name": "Trang Chủ - Tất Cả Những Gì Cần Kiểm Tra",
+                "content_type": 2
+              }
+            ]
+          },
+          {
+            "content_id": 7508128078628609,
+            "content_name": "Chuẩn bị hoạt động",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 7508598725658370,
+                "content_name": "Tài khoản của tôi",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 8914690789558018,
+                    "content_name": "Cài Đặt Hồ Sơ Người Bán",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 5453598914823937,
+                    "content_name": "Tài khoản tổ chức TikTok",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 4151623383713538,
+                "content_name": "Chế độ nghỉ lễ",
+                "content_type": 2
+              },
+              {
+                "content_id": 6837778147460865,
+                "content_name": "Quản Lý Quyền Truy Cập trong Trung tâm Nhà Bán Hàng",
+                "content_type": 2
+              },
+              {
+                "content_id": 6837780084770561,
+                "content_name": "Hướng dẫn chọn nhạc cho video ngắn trên sàn thương mại điện tử TikTok",
+                "content_type": 2
+              },
+              {
+                "content_id": 6837780084786945,
+                "content_name": "Tài Khoản TikTok Shop Chính Thức",
+                "content_type": 2
+              },
+              {
+                "content_id": 6837795792701186,
+                "content_name": "Tài Khoản Tiếp Thị TikTok Shop",
+                "content_type": 2
+              },
+              {
+                "content_id": 6837795792815874,
+                "content_name": "Tài khoản của tôi - Tất cả thông tin về Cài đặt và Cá nhân hóa",
+                "content_type": 2
+              },
+              {
+                "content_id": 6837795792946946,
+                "content_name": "【Video】Introduction of store page",
+                "content_type": 2
+              }
+            ]
+          },
+          {
+            "content_id": 7511828331349762,
+            "content_name": "Sản phẩm",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 8217510755206928,
+                "content_name": "Quản Lý Sản Phẩm",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 6837795793110786,
+                    "content_name": "Quản lý Sản phẩm",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1398156382816001,
+                    "content_name": "Đề Xuất Thông Minh cho Quản Lý Sản Phẩm",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837780085163777,
+                    "content_name": "Quản Lý Hàng Tồn Kho",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6532499267012354,
+                    "content_name": "Trình Tối Ưu Hoá Sản Phẩm",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6273713708320513,
+                    "content_name": "Xếp hạng sản phẩm",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837778147706625,
+                    "content_name": "Thông số kỹ thuật biểu đồ kích cỡ",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7363289882281729,
+                    "content_name": "Đăng Sản Phẩm và Chỉnh Sửa Ảnh trên App",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 5958088889173761,
+                    "content_name": "Cảm Nang Niêm Yết Sản Phẩm",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3062768887121666,
+                    "content_name": "Niêm Yết Sản Phẩm trên Ứng Dụng Trung Tâm Nhà Bán Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 817751203743504,
+                    "content_name": "Kiện Hàng bị Cơ Quan Chức Năng Thu Giữ",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 5955197914826497,
+                    "content_name": "Mở rộng cấu trúc ngành hàng sản phẩm",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3018868526483201,
+                    "content_name": "Chương trình Luôn sẵn hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8929647753037584,
+                    "content_name": "Thêm sản phẩm hiện có từ TikTok Shop",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1265022967236369,
+                    "content_name": "Sản phẩm thanh lý",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2098326795503377,
+                    "content_name": "Giới hạn mua của khách hàng",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 8208269735364353,
+                "content_name": "Tăng Trưởng Sản Phẩm",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 1681628197259009,
+                    "content_name": "Công Cụ Tăng Tốc Bán Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3746776087873296,
+                    "content_name": "Phát Triển Thông Minh",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2592954062931713,
+                    "content_name": "Đấu thầu",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7563289900353282,
+                    "content_name": "Chẩn đoán giá",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2178194564318978,
+                    "content_name": "Cơ Hội Sản Phẩm",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8217510755469072,
+                    "content_name": "Điều khoản và điều kiện dành cho video do AI tạo trong tính năng Phát triển thông minh",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3205035385472785,
+                    "content_name": "Điều khoản và điều kiện dành cho Video do AI tạo sử dụng Công Cụ Tăng Tốc Bán Hàng",
+                    "content_type": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": 7511828331415298,
+            "content_name": "Bán hàng tại TikTok Shop",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 3069021214164738,
+                "content_name": "Giải Pháp từ các Bên Thứ Ba",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 3068668506670849,
+                    "content_name": "Hướng Dẫn Sử Dụng Cửa Hàng Ứng Dụng 2.0",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3068668506916609,
+                    "content_name": "Giải Pháp Từ Các Đối Tác TikTok Shop",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837786452182786,
+                    "content_name": "Hướng dẫn về Sàn dịch vụ",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 229308409906960,
+                "content_name": "Bán hàng qua LIVE",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 233061853759249,
+                    "content_name": "Bán hàng qua LIVE",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837786451773186,
+                    "content_name": "Người kiểm duyệt LIVE",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7227377152706320,
+                    "content_name": "Cài Đặt LIVE - Hướng Dẫn cho Nhà Bán Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 368367827666689,
+                    "content_name": "Cải Thiện LIVE",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 690060765693698,
+                    "content_name": "Biển Quảng Cáo LIVE",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 5963691824563970,
+                    "content_name": "Quà tặng LIVE thông qua Trung tâm Nhà Bán Hàng (PC)",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2802387162285841,
+                    "content_name": "Câu chuyện thành công của người bản LIVE",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 229308410332944,
+                    "content_name": "Video nhá hàng LIVE",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2620407727458065,
+                    "content_name": "Thẻ ghim LIVE",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 967473030956801,
+                    "content_name": "Bảng điều khiển LIVE",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2668715045472017,
+                    "content_name": "Phát lại Khoảnh khắc nổi bật trong LIVE trên PDP",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7982818441529089,
+                    "content_name": "Thu Hút Thêm Khán Giả vào LIVE Miễn Phí",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 637092036495105,
+                    "content_name": "Tự động đăng video nhá hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 496374274639617,
+                    "content_name": "Công cụ link sản phẩm",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2357742375552769,
+                    "content_name": "Đăng nhanh sản phẩm trong LIVE",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6636807500842753,
+                    "content_name": "Xếp hạng mua sắm qua LIVE",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 121516164826881,
+                    "content_name": "Chiến lược nâng cấp chất lượng buổi LIVE",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3275142209767169,
+                    "content_name": "Ra gía trên LIVE",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8405487868626705,
+                    "content_name": "Tạo Giỏ hàng LIVE có tác động cao trước khi phát LIVE",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 7508598725740290,
+                "content_name": "Livestream and selling in videos",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 113561775900417,
+                    "content_name": "Trình quản lý LIVE dành cho Nhà Bán Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 4898053111744273,
+                    "content_name": "Nhận phân tích hiểu sâu do AI tạo trong LIVE",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 5482135743088386,
+                "content_name": "Video Mua Sắm",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 5491257522915073,
+                    "content_name": "Video Mua Sắm",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837806026573569,
+                    "content_name": "Công cụ tạo video thương mại điện tử",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2533343863097105,
+                    "content_name": "Dễ dàng tạo Video link bán hàng với Công cụ tạo video AI",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1851950737131280,
+                    "content_name": "Ảnh gắn link bán hàng",
+                    "content_type": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": 7508128078857985,
+            "content_name": "Đơn Hàng & Vận Chuyển",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 7508598725789442,
+                "content_name": "Quản Lý Đơn Hàng và Sắp Xếp Vận Chuyển",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 5910869171717889,
+                    "content_name": "Quản Lý Đơn Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3142758915704592,
+                    "content_name": " Quản lý đơn hàng trên ứng dụng Trung Tâm Nhà Bán Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8873269289797392,
+                    "content_name": "Quản lý đơn hàng giao không thành công",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837797940070145,
+                    "content_name": "Gộp Nhiều Đơn Hàng vào 1 Gói Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837795793012482,
+                    "content_name": "Bằng Chứng Cần Cung Cấp để Từ Chối Yêu Cầu Hậu Mãi của Khách Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 885076015728386,
+                    "content_name": "Xuất Đơn Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3726090757621506,
+                    "content_name": "Hướng Dẫn Đầy Đủ Về ‘Vận Chuyển Qua Nền Tảng’",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3724485006214913,
+                    "content_name": "Hướng dẫn về “Vận chuyển bởi Nhà bán hàng”",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2981715984320257,
+                    "content_name": "Nhãn Vận Chuyển",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2976925506144001,
+                    "content_name": "Thiết Lập Phương Thức Lấy Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7386988223432450,
+                    "content_name": "Công Cụ Kiểm Tra Hàng Loạt",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 185077880555280,
+                    "content_name": "Cách Khiếu Nại Các Vấn Đề Kho Vận",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837780085393153,
+                    "content_name": "Cách tính trọng lượng tính phí",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1731624127465232,
+                    "content_name": "Truy cập vào thông tin khách hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2818814077273872,
+                    "content_name": "Thay Đổi Cách Tính Phí Vận Chuyển Của Nền Tảng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3771850460202753,
+                    "content_name": "Hoàn tất đơn hàng của bạn trên Ứng dụng Người bán",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837795793012482,
+                    "content_name": "Bằng Chứng Cần Cung Cấp để Từ Chối Yêu Cầu Hậu Mãi của Khách Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2990230115665665,
+                    "content_name": "Cách thiết lập tính năng phản hồi tự động về hậu mãi",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 2978683065796354,
+                "content_name": "Dịch Vụ Vận Chuyển",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 7575204750444289,
+                    "content_name": "Tính Năng Người Bán Tự Vận Chuyển (Seller Own Fleet - SOF) Trên TikTok Shop",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8544539531708161,
+                    "content_name": "Cách Gửi Mẫu Miễn Phí",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6201346245330690,
+                    "content_name": "Dịch Vụ Vận Chuyển Hàng Hoá Cồng Kềnh",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1175354056902401,
+                    "content_name": "Dịch vụ Giao Nhanh 24H (NDD)",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8974899868518160,
+                    "content_name": "Giới Thiệu Về Các Đơn Vị Vận Chuyển Trên TikTok Shop",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7206209079330561,
+                    "content_name": "Cài đặt vận chuyển",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7225820574009104,
+                    "content_name": "Hướng dẫn cách quản lý Đơn hàng Giao Nhanh 24H",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1797134848837393,
+                    "content_name": "Tính năng Dịch vụ hỏa tốc",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 4837542404048641,
+                    "content_name": "Cách liên hệ trực tiếp với đơn vị vận chuyển",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 285217244923649,
+                    "content_name": "Giờ hoạt động của kho cho dịch vụ giao hàng Hỏa tốc (Instant) và Giao trong ngày (Sameday)",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3816066111751937,
+                    "content_name": "Câu hỏi thường gặp về Giao hàng hỏa tốc",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2451778583758593,
+                    "content_name": "Giao Trong Ngày",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 2981937955653378,
+                "content_name": "Dịch Vụ Kho Vận",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 2324329879521025,
+                    "content_name": "Cập nhật Quan trọng: Thay đổi Địa chỉ theo Đơn vị Hành chính Mới tại Việt Nam",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837797940283137,
+                    "content_name": "Hướng dẫn tính năng MWH (Multi-warehouse)",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 2993722023282433,
+                "content_name": "Phí và Chính Sách Đơn Hàng và Vận Chuyển",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 6530242332641026,
+                    "content_name": "Người mua trả hàng bằng dịch vụ vận chuyển của TikTok Shop (gửi tại bưu cục)",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837797940561665,
+                    "content_name": "Hướng Dẫn Về Phí Vận Chuyển Nền Tảng Việt Nam",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1627135106762497,
+                    "content_name": "Cập nhật Phí Giao hàng qua Nền tảng của TikTok Shop Việt Nam",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8688127271110401,
+                    "content_name": "Bảng giá phí vận chuyển của dịch vụ giao hàng hỏa tốc",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837797940561665,
+                    "content_name": "Hướng Dẫn Về Phí Vận Chuyển Nền Tảng Việt Nam",
+                    "content_type": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": 2994960798746369,
+            "content_name": "Trả Hàng & Hoàn Tiền",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 7162847021713169,
+                "content_name": "Quản lý trả hàng và hoàn tiền",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 6819122768905985,
+                    "content_name": "Quản lý yêu cầu trả hàng và hoàn tiền",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 4924096304482065,
+                    "content_name": "Quản lý yêu cầu chỉ hoàn tiền",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3726084311222032,
+                    "content_name": "Quản Lý Yêu Cầu Trả Hàng/Hoàn Tiền trên Ứng Dụng Trung Tâm Nhà Bán Hàng ",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1398156382422785,
+                    "content_name": "Phương Thức Trả Hàng và Hoàn Tiền",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3325723009222416,
+                    "content_name": "Hoàn Tiền Một Phần",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 963525829347074,
+                    "content_name": "Quản Lý Yêu Cầu Hủy Đơn",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6790288090941186,
+                    "content_name": "Bồi Thường Tự Động cho các Yêu Cầu Trả Hàng do Khách Hàng tự Sắp Xếp",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 5104634859620098,
+                    "content_name": "Khiếu Nại Yêu Cầu Trả Hàng/Hoàn Tiền",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8356736328402705,
+                    "content_name": "Trả Hàng Không Thành Công",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2863846680299281,
+                    "content_name": "Thiết lập quy tắc tự động cho yêu cầu hủy",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2863846680921873,
+                    "content_name": "Cài đặt quy tắc tự động cho Hoàn tiền không cần trả hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7997606615877377,
+                    "content_name": "Đề nghị hoàn tiền cho khách hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 5529285474109185,
+                    "content_name": "Thương lượng với người mua",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 6209644738184961,
+                "content_name": "Đơn trả hàng và hoàn tiền",
+                "content_type": 2
+              }
+            ]
+          },
+          {
+            "content_id": 7508598725854978,
+            "content_name": "Vận chuyển",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 7508128078923521,
+                "content_name": "Vận chuyển",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 6837780085098241,
+                    "content_name": "Hướng dẫn đóng gói của TikTok Shop",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1002429412722449,
+                    "content_name": "[Lưu ý] Quy trình hoàn thiện đơn hàng dành cho đơn đặt trước (Pre-order)",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837780085098241,
+                    "content_name": "Hướng dẫn đóng gói của TikTok Shop",
+                    "content_type": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": 7511828331464450,
+            "content_name": "Khách hàng",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 3721371931543297,
+                "content_name": "Tính Năng Truyền Thông",
+                "content_type": 2
+              },
+              {
+                "content_id": 7046312572094209,
+                "content_name": "Voucher Cho Khách Hàng Mục Tiêu Qua Tin Nhắn CRM Hàng Loạt",
+                "content_type": 2
+              },
+              {
+                "content_id": 5223167807293200,
+                "content_name": "Điều Kiện Tham Gia Và Cấp Độ Tin Nhắn CRM Hàng Loạt",
+                "content_type": 2
+              },
+              {
+                "content_id": 8361573894965008,
+                "content_name": "Tin Nhắn Quảng Bá CRM tùy chỉnh",
+                "content_type": 2
+              }
+            ]
+          },
+          {
+            "content_id": 7508598725936898,
+            "content_name": "Khuyến mãi",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 318064626452226,
+                "content_name": "Tổng Quan: Khuyến Mãi và Chiến Dịch",
+                "content_type": 2
+              },
+              {
+                "content_id": 7508128078989057,
+                "content_name": "Khuyến Mãi",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 6047400540145409,
+                    "content_name": "Tổng quan về Chương trình khuyến mãi của nền tảng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2965628697724674,
+                    "content_name": "Cách Tính Khuyến Mãi Cộng Dồn",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837782308177665,
+                    "content_name": "Giảm Giá Sản Phẩm",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837782307768065,
+                    "content_name": "Flash Sale của shop",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1740820451002114,
+                    "content_name": "Ưu Đãi Chớp Nhoáng trong LIVE",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 838920448067345,
+                    "content_name": "Chiết Khấu Hàng Mới Về",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837782308259585,
+                    "content_name": "[Livestream Product Set]  Feature Intro",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 5159633199597314,
+                    "content_name": "Voucher Thông Thường Của Nhà Bán Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8127384465213185,
+                    "content_name": "Voucher Tương Tác Khi LIVE",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3409246692263682,
+                    "content_name": "Voucher Cho Khách Hàng Mới Của Nhà Bán Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1503627886364418,
+                    "content_name": "Voucher cho Khách Quay Lại Mua Hàng ",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 873463842031362,
+                    "content_name": "Voucher Độc Quyền Của Nhà Sáng Tạo",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837797940381441,
+                    "content_name": "Mua Sỉ Giá Hời (BMSM)",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 338556929509122,
+                    "content_name": "Quà Tặng Khi Mua Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1823467559126785,
+                    "content_name": "Ưu Đãi Theo Gói",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837782308292353,
+                    "content_name": "Chiết Khấu Phí Vận Chuyển của Nhà Bán Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 5787845827200769,
+                    "content_name": "Voucher Qua Chat",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7443285970781969,
+                    "content_name": "Mã Khuyến Mãi",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1651976556480273,
+                    "content_name": "Hướng Dẫn Về Mức Giảm Giá Khuyến Mãi Do Nhà Bán Hàng Tài Trợ ",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837780085360385,
+                    "content_name": "TikTok Shop Seller Promotional Tools Terms and Conditions",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 798202685048577,
+                    "content_name": "Điều Khoản Và Điều Kiện Về Phiếu/Mã Giảm Giá (Coupon) Trên TikTok Shop",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7430231897016080,
+                    "content_name": "Voucher đánh giá",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 4243173509515009,
+                "content_name": "Chương Trình và Chiến Dịch",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 8901645928908546,
+                    "content_name": "Chiến dịch Sản phẩm",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8919745651377922,
+                    "content_name": "Chiến Dịch LIVE",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7191197475882768,
+                    "content_name": "Đăng ký Chiến dịch Một lần nhấp",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8901645929072386,
+                    "content_name": "Chiến Dịch Đồng Tài Trợ",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8598957182256898,
+                    "content_name": "Ưu Đãi Theo Gói – Điều Khoản Và Điều Kiện",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8919745651230466,
+                    "content_name": "Phân Tích Chiến Dịch: Nắm Rõ Hiệu Suất Sản Phẩm, Phân Tích Tăng Trưởng Doanh Số",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3723270759630593,
+                    "content_name": "Tính Năng Quản Lý Giá",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8436675252651777,
+                    "content_name": "Chiến Dịch Tiếp Thị Liên Kết Do Nhà Bán Hàng khởi Tạo",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1524105301133072,
+                    "content_name": "Chiến Dịch Tiếp Thị Liên Kết do Nhà Bán Hàng khởi tạo",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8897588753532673,
+                    "content_name": "",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 5811360558597889,
+                    "content_name": "Gói Lợi Ích Tiếp Thị",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 4455378022106897,
+                    "content_name": "Chương trình Hoàn Phí Vận Chuyển là gì?",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3409797665277712,
+                    "content_name": "Chiến dịch kết nối tiếp thị liên kết và Tuyển dụng của người bán",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2809994455254800,
+                    "content_name": "Gói lợi ích marketing - Thanh toán",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1831648350422800,
+                    "content_name": "Gói tính phí nhiều lần",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 5776954021037841,
+                    "content_name": "Voucher Extra Program PLUS",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 7508598726002434,
+                "content_name": "Người bán phiếu thưởng",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 1699639980607248,
+                    "content_name": "TikTok Shop 💰 Chương trình Tháng Q1/2026💰 Ưu đãi quyền lợi Voucher Xtra / Phí giao dịch cho Nhà bán hàng hiệu suất LIVE cao",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 6413130830350081,
+                "content_name": "Tổng Quan",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 6413130831152897,
+                    "content_name": "Cẩm Nang Khuyến Mãi trên TikTok Shop",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6429797375362818,
+                    "content_name": "Video 1: What are Promotional Activities",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6425922560706305,
+                    "content_name": "Video 2.1: How to join Product Promotional Activities",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6429797375772418,
+                    "content_name": "Video 2.2: How to join Live or Content Promotional Activities",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6429797375936258,
+                    "content_name": "Video 3.1: How to win in TikTok Shop Promotional Activities ",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6434850680620802,
+                    "content_name": "Video 3.2: How to win in TikTok Shop Promotional Activities  ",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6434850680784642,
+                    "content_name": "Video 4.1: How to Create Your own Promotions",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6428979503367937,
+                    "content_name": "Video 4.2: How to Create your own Promotions",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6434850680964866,
+                    "content_name": "Video 5: Data Tracking",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7050303203919617,
+                    "content_name": "TikTok Shop LIVE Flash Sale",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7050328675518209,
+                    "content_name": "Product Selling Points",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7050303204181761,
+                    "content_name": "Platform and Seller Promotional Activities",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7050303204296449,
+                    "content_name": "Giveaways",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7050303204476673,
+                    "content_name": "Short Video Tips",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7050328676058881,
+                    "content_name": "Livestream Interaction",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 7511828331693826,
+                "content_name": "Phương pháp hay nhất",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 2640351928551184,
+                    "content_name": "Câu chuyện thành công của chương trình Flash Sale",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 7351965450307329,
+                "content_name": "Khuyến mãi đề xuất",
+                "content_type": 2
+              },
+              {
+                "content_id": 2360617391965953,
+                "content_name": "Marketing Benefit Packages",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 2296465419912976,
+                    "content_name": "Hiểu về Thanh toán",
+                    "content_type": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": 7508128079070977,
+            "content_name": "Tài chính",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 4226510765147905,
+                "content_name": "Tổng Quan",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 825773561448193,
+                    "content_name": "Tài Chính cho Người Mới Bắt Đầu: Hướng Dẫn về Phương Thức và Thời Điểm Bạn Được Thanh Toán",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2824323762210561,
+                    "content_name": "Giao Dịch “Đã Quyết Toán” ",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2844649149974273,
+                    "content_name": "Giao Dịch Sẽ Quyết Toán",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 4227429090887426,
+                "content_name": "Phí của Nhà Bán Hàng",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 8858869405370113,
+                    "content_name": "Phí của Nhà Bán Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3396736626312961,
+                    "content_name": "Phí Hoa Hồng Nền Tảng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 753295858337537,
+                    "content_name": "Phí Giao Dịch",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2968734088120080,
+                    "content_name": "Phí Xử Lý Đơn Hàng",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 5813768807991042,
+                "content_name": "Rút Tiền",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 6837804172904193,
+                    "content_name": "Thiết Lập Mật Khẩu Rút Tiền trên TikTok Shop",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 5850015050794754,
+                    "content_name": "Cách Thiết Lập Tài Khoản Ngân Hàng để Nhận Thanh Toán từ TikTok Shop",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837804173018881,
+                    "content_name": "Cách Rút Tiền từ Số Dư Tài Khoản của Nhà Bán Hàng",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 7508598726117122,
+                "content_name": "Thuế",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 1300818821318401,
+                    "content_name": "Kiểm Tra Hóa Đơn Thuế",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6203651052209921,
+                    "content_name": "Hướng Dẫn Kê Khai Thuế cho Chi Phí Hoa Hồng trên TikTok Shop",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837804173133569,
+                    "content_name": "Thông Tin Cơ Bản về Thuế trên Phí Nền Tảng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2632156783101712,
+                    "content_name": "Khấu Trừ Thuế cho Nhà Bán Hàng Cá Nhân và Hộ Kinh Doanh",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 7511828331759362,
+                "content_name": "Các Vấn Đề Khác",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 915481892751121,
+                    "content_name": "Trả Góp qua Thẻ Tín Dụng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2948277949679376,
+                    "content_name": "Nhà Bán Hàng Doanh Nghiệp Khấu trừ thuế Thu Nhập Cá Nhân của Nhà Sáng Tạo",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 4831769674172176,
+                    "content_name": "Nhận tiền trước",
+                    "content_type": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": 7508128078792449,
+            "content_name": "Tiếp thị liên kết",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 7540890503857922,
+                "content_name": "Tổng Quan về Tiếp Thị Liên Kết",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 775581994239745,
+                    "content_name": "Tiếp Thị Liên Kết trên TikTok Shop",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837788624340738,
+                    "content_name": "Cộng Tác Tiếp Thị Liên Kết",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3069021213804290,
+                    "content_name": "Đề xuất trong Cộng Tác Mở",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 4320631378609922,
+                    "content_name": "Hướng Dẫn cho Nhà Bán Hàng về Mẫu Miễn Phí ",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2162928711796482,
+                    "content_name": "Đơn Hàng Tiếp Thị Liên Kết",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 642386531452688,
+                    "content_name": "Quản Lý Mẫu Thử trong Chiến Dịch - Hướng Dẫn cho Nhà Bán Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6900325518165761,
+                    "content_name": "Video Hướng Dẫn về Mẫu Thử Miễn Phí cho Nhà Bán Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3747225037670161,
+                    "content_name": "Cài Đặt Hoa Hồng Tiếp Thị Liên Kết",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 5606783130421008,
+                    "content_name": "Tự động chọn tham gia Cộng Tác Mở",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 750193381721873,
+                    "content_name": "Chỉnh Sửa Hàng Loạt Sản Phẩm trong Cộng Tác Mở ",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8228106949412609,
+                    "content_name": "Quảng Cáo Mua Sắm qua Tiếp Thị Liên Kết dành cho Nhà Bán Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1653513001142033,
+                    "content_name": "Hướng Dẫn Chương trình lưu lượng truy cập bên ngoài Dành Cho Người Bán",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3709777301505808,
+                    "content_name": "Tiếp Thị Liên Kết trên app Trung tâm Nhà Bán Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837788624537346,
+                    "content_name": "Số Liệu Phân Tích Liên Kết",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 5273742256490241,
+                    "content_name": "Hướng dẫn cho Nhà Bán Hàng về hàng hàng mẫu có thể hoàn tiền",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 5593932219336465,
+                    "content_name": "Điều khoản và Điều kiện về Sản Phẩm Mẫu có hoàn tiền dành cho Người bán",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 5585805230343953,
+                    "content_name": "Điều Khoản và Điều Kiện Sản Phẩm Mẫu Có Hoàn Tiền cho Người Sáng Tạo",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2402549491582737,
+                    "content_name": "Tiếp Thị Liên Kết với Phí Hoa Hồng Chia Cấp",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8675395550791441,
+                    "content_name": "Dịch Vụ Tiếp Thị Liên Kết Chính Thức",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 5674476185421585,
+                "content_name": "Tìm Nhà Sáng Tạo",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 5104634859521794,
+                    "content_name": "Bảng Xếp Hạng Nhà Sáng Tạo",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837806027097857,
+                    "content_name": "Kết Nối Với Nhà Sáng Tạo Trong Tiếp Thị Liên Kết",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837788625094402,
+                    "content_name": "Tìm Nhà Sáng Tạo cho hoạt động Tiếp Thị Liên Kết",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 491114578986753,
+                    "content_name": "Hướng Dẫn về Đối Tác TikTok Shop (TSP)",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 533541595137809,
+                    "content_name": "Quản Lý Nhà Sáng Tạo",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7349750462908177,
+                    "content_name": "Cách Yêu cầu Đối tác TikTok Shop",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6070181672421136,
+                    "content_name": "Cách tham gia Chiến Dịch Đối Tác Tiếp Thị Liên Kết",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 3584248713627409,
+                    "content_name": "Cấp độ nhà sáng tạo cho người bán",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 5677853783164688,
+                "content_name": "Các Ví Dụ Thành Công",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 6837790810179329,
+                    "content_name": "Hufuholic: Nhà Bán Hàng hàng đầu đã tăng doanh thu cùng Tiếp Thị Liên Kết như thế nào?",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 3683240633665296,
+                "content_name": "Tiếp Thị Liên Kết cho Nhà Bán Hàng Mới Bắt Đầu",
+                "content_type": 2
+              },
+              {
+                "content_id": 2961667529328400,
+                "content_name": "[Video] tổng quan về cộng tác liên kết",
+                "content_type": 2
+              },
+              {
+                "content_id": 194295085303569,
+                "content_name": "Tổng quan về hợp tác",
+                "content_type": 2
+              }
+            ]
+          },
+          {
+            "content_id": 1751191470556944,
+            "content_name": "Sự phát triển",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 1749498272515857,
+                "content_name": "Sự phát triển",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 2846113343260433,
+                    "content_name": "Đăng Ký Tham Gia và Quản Lý Chương Trình Mall",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1749498272139025,
+                    "content_name": "Ủy quyền sản phẩm trên trang Mall",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837802038249217,
+                    "content_name": "Nhiệm Vụ và Phần Thưởng",
+                    "content_type": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": 7508128079136513,
+            "content_name": "Quảng cáo",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 4300467724371729,
+                "content_name": "GMV Max",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 3294878856840961,
+                    "content_name": "GMV Max của sản phẩm",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 4789627547649808,
+                    "content_name": "GMV Max của phiên LIVE",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2678523672430352,
+                    "content_name": "Creative Instructions for Product GMV Max ",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 2681031052805889,
+                    "content_name": "Metrics Explanation and Attribution of GMV Max",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1376394433120001,
+                    "content_name": "Thiết lập GMV Max cho nội dung từ Nhà Sáng Tạo Tiếp Thị Liên Kết",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7121687611606785,
+                    "content_name": "Giới Thiệu Tính Năng Auto Remix LIVE GMV Max",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 5097596612101889,
+                    "content_name": "TikTok Shop Ads Guide",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7204533386299152,
+                    "content_name": " Ngày khuyến mãi với GMV Max",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 6837784405034753,
+                "content_name": "Thiết Lập Quảng Cáo Mua Sắm qua LIVE",
+                "content_type": 2
+              },
+              {
+                "content_id": 6837784405051137,
+                "content_name": "Thúc đẩy phiên phát trực tiếp bằng Quảng cáo",
+                "content_type": 2
+              },
+              {
+                "content_id": 6837800171816706,
+                "content_name": "Thúc đẩy video của bạn",
+                "content_type": 2
+              },
+              {
+                "content_id": 6837802037987073,
+                "content_name": "Hướng Dẫn về Quảng Cáo Mua Sắm",
+                "content_type": 2
+              },
+              {
+                "content_id": 6837802038150913,
+                "content_name": "Cài đặt Quảng cáo mua sắm qua video",
+                "content_type": 2
+              },
+              {
+                "content_id": 6837804172723969,
+                "content_name": "Sử dụng Quảng cáo mua sắm để tối ưu hóa hiệu suất",
+                "content_type": 2
+              },
+              {
+                "content_id": 6837786451805954,
+                "content_name": "Sách hướng dẫn Promote dành cho Thương mại điện tử",
+                "content_type": 2
+              },
+              {
+                "content_id": 1513591506093841,
+                "content_name": "Giới Thiệu Về GMV Pay",
+                "content_type": 2
+              }
+            ]
+          },
+          {
+            "content_id": 7508598726199042,
+            "content_name": "Trung tâm Trợ giúp",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 7508128079218433,
+                "content_name": "Trung tâm Trợ giúp",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 6837804172625665,
+                    "content_name": "Trung tâm Trợ giúp - Hãy cho chúng tôi biết mọi thứ",
+                    "content_type": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": 7535302457460482,
+            "content_name": "Kho Vận",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 7508598726346498,
+                "content_name": "Livestream",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 6837780085098241,
+                    "content_name": "Hướng dẫn đóng gói của TikTok Shop",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 6837780085393153,
+                "content_name": "Cách tính trọng lượng tính phí",
+                "content_type": 2
+              },
+              {
+                "content_id": 6530242332641026,
+                "content_name": "Người mua trả hàng bằng dịch vụ vận chuyển của TikTok Shop (gửi tại bưu cục)",
+                "content_type": 2
+              },
+              {
+                "content_id": 7575204750444289,
+                "content_name": "Tính Năng Người Bán Tự Vận Chuyển (Seller Own Fleet - SOF) Trên TikTok Shop",
+                "content_type": 2
+              }
+            ]
+          },
+          {
+            "content_id": 7540890503481090,
+            "content_name": "Phân tích dữ liệu",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 7535302457558786,
+                "content_name": "Tổng quan Dữ liệu\t",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 786013925508865,
+                    "content_name": "Số liệu phân tích cửa hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 363895081010945,
+                    "content_name": "Sổ tay La bàn dữ liệu",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837786452313858,
+                    "content_name": "Hướng dẫn sử dụng La bàn Dữ liệu trong Trung tâm Người bán",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 6837804172805889,
+                    "content_name": "Tổng quan dữ liệu-Có thể tìm thấy cơ cấu doanh thu của cửa hàng ở đâu",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 4851723979097858,
+                    "content_name": "Tinh chỉnh GMV",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 7951926483715841,
+                    "content_name": "Thuật ngữ Tài Chính: Sự khác biệt giữa GMV & Quyết Toán",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 8280710197774097,
+                "content_name": "Dữ Liệu và Tăng Trưởng",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 8322912478430992,
+                    "content_name": "Tăng trưởng kinh doanh nhờ Công Cụ Tăng Tốc Kinh Doanh",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 4892296396326673,
+                "content_name": "LIVE & Video",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 7538492074952450,
+                    "content_name": "Phân tích phát trực tiếp",
+                    "content_type": 1,
+                    "sub_contents": [
+                      {
+                        "content_id": 4186564049700609,
+                        "content_name": "Live Diagnosis Showcase",
+                        "content_type": 2
+                      },
+                      {
+                        "content_id": 5477287655884545,
+                        "content_name": "Hiệu Suất LIVE",
+                        "content_type": 2
+                      },
+                      {
+                        "content_id": 3706134402107137,
+                        "content_name": "Chẩn đoán LIVE",
+                        "content_type": 2
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": 4246911406081793,
+                    "content_name": "Phân Tích Video",
+                    "content_type": 1,
+                    "sub_contents": [
+                      {
+                        "content_id": 786013925639937,
+                        "content_name": "Tổng Quan về Phân Tích Video",
+                        "content_type": 2
+                      },
+                      {
+                        "content_id": 2512486201362178,
+                        "content_name": "Cảm Hứng Video",
+                        "content_type": 2
+                      },
+                      {
+                        "content_id": 4166937836209922,
+                        "content_name": "Hiệu Suất Video ",
+                        "content_type": 2
+                      },
+                      {
+                        "content_id": 7954159274575617,
+                        "content_name": "Hướng Dẫn Chẩn Đoán Video cho Nhà Bán Hàng",
+                        "content_type": 2
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content_id": 6901428203570946,
+                "content_name": "Product Card",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 4909256822343425,
+                    "content_name": "Product Card",
+                    "content_type": 1,
+                    "sub_contents": [
+                      {
+                        "content_id": 6901428203357954,
+                        "content_name": "Thẻ Sản Phẩm",
+                        "content_type": 2
+                      },
+                      {
+                        "content_id": 7905983637079809,
+                        "content_name": "Chẩn Đoán Thẻ Sản Phẩm hoạt động như thế nào 4",
+                        "content_type": 2
+                      },
+                      {
+                        "content_id": 7894389512210177,
+                        "content_name": "Chẩn Đoán Thẻ Sản Phẩm hoạt động như thế nào 2",
+                        "content_type": 2
+                      },
+                      {
+                        "content_id": 7905983636850433,
+                        "content_name": "Chẩn Đoán Thẻ Sản Phẩm hoạt động như thế nào 3",
+                        "content_type": 2
+                      },
+                      {
+                        "content_id": 7894389511833345,
+                        "content_name": "Chẩn Đoán Thẻ Sản Phẩm hoạt động như thế nào 1",
+                        "content_type": 2
+                      },
+                      {
+                        "content_id": 5792290376255233,
+                        "content_name": "Chẩn Đoán Thẻ Sản Phẩm",
+                        "content_type": 2
+                      },
+                      {
+                        "content_id": 3433679980447489,
+                        "content_name": "Hiệu suất thẻ sản phẩm: Tìm hiểu thêm về hiệu quả phân phối và chuyển đổi nguồn lưu lượng truy cập",
+                        "content_type": 2
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": 8544539532347137,
+                    "content_name": "Tìm Kiếm",
+                    "content_type": 1,
+                    "sub_contents": [
+                      {
+                        "content_id": 8617918787323649,
+                        "content_name": "Trình Tối Ưu Hóa Tiêu Đề Sản Phẩm",
+                        "content_type": 2
+                      },
+                      {
+                        "content_id": 7882375968835330,
+                        "content_name": "Xếp Hạng Từ Khoá",
+                        "content_type": 2
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": 7538492075017986,
+                    "content_name": "Channels",
+                    "content_type": 1,
+                    "sub_contents": [
+                      {
+                        "content_id": 6203651052324609,
+                        "content_name": "Hướng dẫn chiến lược kinh doanh dành cho nhà bán hàng Trung tâm mua sắm",
+                        "content_type": 2
+                      },
+                      {
+                        "content_id": 953262371653378,
+                        "content_name": "Tận dụng lưu lượng truy cập từ đề xuất trong Thẻ sản phẩm",
+                        "content_type": 2
+                      },
+                      {
+                        "content_id": 1126980712285953,
+                        "content_name": "Phân tích Trang cửa hàng",
+                        "content_type": 2
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content_id": 7540890503563010,
+                "content_name": "Phân tích Sản phẩm",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 8623594494625537,
+                    "content_name": "Lưu lượng truy cập sản phẩm",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 4909256822474497,
+                "content_name": "Marketing",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 377296964601602,
+                    "content_name": "Phân Tích Công Cụ Khuyến Mại",
+                    "content_type": 1,
+                    "sub_contents": [
+                      {
+                        "content_id": 382806895920898,
+                        "content_name": "Phân Tích Công Cụ Khuyến Mãi",
+                        "content_type": 2
+                      },
+                      {
+                        "content_id": 784314702989073,
+                        "content_name": "Bảng Số Liệu Chiến Dịch Tổng Quan",
+                        "content_type": 2
+                      },
+                      {
+                        "content_id": 5307890866112273,
+                        "content_name": "Số liệu phân tích Chương trình Flash Sale",
+                        "content_type": 2
+                      },
+                      {
+                        "content_id": 8437277152495376,
+                        "content_name": "Phân Tích Chiến Dịch",
+                        "content_type": 2
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": 7540890503628546,
+                    "content_name": "Phân tích người dùng ",
+                    "content_type": 1,
+                    "sub_contents": [
+                      {
+                        "content_id": 8623594494756609,
+                        "content_name": "Phân tích người dùng",
+                        "content_type": 2
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content_id": 7540890503694082,
+                "content_name": "Dịch vụ khách hàng",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 3424698301990658,
+                    "content_name": "Hướng dẫn sử dụng Hiệu suất đánh giá tiêu cực",
+                    "content_type": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": 7535302457640706,
+            "content_name": "TikTok người phát trực tiếp",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 6837788624520962,
+                "content_name": "Desktop cho Streamer trên PC của TikTok",
+                "content_type": 2
+              }
+            ]
+          },
+          {
+            "content_id": 7538492075116290,
+            "content_name": "Dịch vụ khách hàng",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 5467688177878801,
+                "content_name": "Công Cụ Chat & Tự Động Hoá",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 3031784435435265,
+                    "content_name": "Tính Năng Chat dành cho Dịch Vụ Khách Hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1531423807063809,
+                    "content_name": "Trợ lý trò chuyện dịch vụ khách hàng",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 1555377489839874,
+                    "content_name": "Tin Nhắn Dịch Vụ Khách Hàng Tự Động",
+                    "content_type": 2
+                  },
+                  {
+                    "content_id": 8109059019573009,
+                    "content_name": "Cách hoạt động của Trợ lý Nhà Bán Hàng",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 5473514015524609,
+                "content_name": "Phân Tích Dịch Vụ",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 7321019421820673,
+                    "content_name": "Hiệu suất chat của cửa hàng",
+                    "content_type": 2
+                  }
+                ]
+              },
+              {
+                "content_id": 5467688177944337,
+                "content_name": "Cài Đặt",
+                "content_type": 1,
+                "sub_contents": [
+                  {
+                    "content_id": 6837808157394689,
+                    "content_name": "Quản lý đội ngũ dịch vụ khách hàng",
+                    "content_type": 2
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": 7535302457706242,
+            "content_name": "Tình trạng cửa hàng",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 4138423883826945,
+                "content_name": "Tình trạng tài khoản TikTok",
+                "content_type": 2
+              },
+              {
+                "content_id": 6837788624684802,
+                "content_name": "Tình trạng cửa hàng",
+                "content_type": 2
+              }
+            ]
+          },
+          {
+            "content_id": 7535302457771778,
+            "content_name": "Cửa Hàng",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 8563873116784386,
+                "content_name": "Giới thiệu về trang cửa hàng",
+                "content_type": 2
+              },
+              {
+                "content_id": 6837790809687809,
+                "content_name": "Thiết kế cửa hàng",
+                "content_type": 2
+              },
+              {
+                "content_id": 825773561251585,
+                "content_name": "Quản lý danh mục",
+                "content_type": 2
+              },
+              {
+                "content_id": 6882132828669698,
+                "content_name": "Logo Cửa Hàng",
+                "content_type": 2
+              }
+            ]
+          },
+          {
+            "content_id": 7540890504005378,
+            "content_name": "Trang Mua Sắm TikTok",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 364829412329217,
+                "content_name": "Phân tích cửa hàng-Cách phân tích doanh thu và lưu lượng truy cập do Trung tâm mua sắm TikTok",
+                "content_type": 2
+              },
+              {
+                "content_id": 4027195485292304,
+                "content_name": "Cẩm Nang Phát Triển Sản Phẩm Mới Trên TikTok Shop",
+                "content_type": 2
+              }
+            ]
+          },
+          {
+            "content_id": 7535302457837314,
+            "content_name": "Siêu sale",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 1113254105663234,
+                "content_name": "Lập kế hoạch cho chương trình khuyến mại Mega Sales theo lịch trình này",
+                "content_type": 2
+              },
+              {
+                "content_id": 1157682472044289,
+                "content_name": "Cách chuẩn bị cho doanh nghiệp của bạn vào Dịp Mega Sales",
+                "content_type": 2
+              },
+              {
+                "content_id": 1113254105810690,
+                "content_name": "Từ nội dung đến giỏ hàng: Thúc đẩy doanh số bằng Quảng cáo mua sắm trên LIVE",
+                "content_type": 2
+              },
+              {
+                "content_id": 1113254105908994,
+                "content_name": "Bán hàng thật đơn giản với Quảng cáo mua sắm video",
+                "content_type": 2
+              }
+            ]
+          },
+          {
+            "content_id": 7540890504054530,
+            "content_name": "Giới thiệu",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 368367827977985,
+                "content_name": "GPM Showcase - Cải thiện tần suất và chất lượng livestream",
+                "content_type": 2
+              },
+              {
+                "content_id": 2671363157051138,
+                "content_name": "NUTY - Hoạt động phễu đầy trên TikTok Shop",
+                "content_type": 2
+              },
+              {
+                "content_id": 2949384120272642,
+                "content_name": "M2T Bedding - TikTok Shop trở thành kênh doanh thu chính sau 4 tháng",
+                "content_type": 2
+              },
+              {
+                "content_id": 3034700503353089,
+                "content_name": "MAYBELLINE VIỆT NAM - Tăng trưởng mạnh sau giai đoạn khởi đầu khó khăn",
+                "content_type": 2
+              }
+            ]
+          },
+          {
+            "content_id": 3835525223941889,
+            "content_name": "Tính năng mới nhất cho Nhà Bán Hàng",
+            "content_type": 1,
+            "sub_contents": [
+              {
+                "content_id": 3826714972342017,
+                "content_name": "Bản tin tháng 4 năm 2025 cho Nhà Bán Hàng",
+                "content_type": 2
+              },
+              {
+                "content_id": 3062196355958529,
+                "content_name": "Bản tin tháng 5 năm 2025 cho Nhà Bán Hàng ",
+                "content_type": 2
+              },
+              {
+                "content_id": 3062196356286209,
+                "content_name": "Bản tin tháng 6 năm 2025 cho Nhà Bán Hàng ",
+                "content_type": 2
+              },
+              {
+                "content_id": 3068280956962577,
+                "content_name": "Bản tin tháng 7 năm 2025 cho Nhà Bán Hàng ",
+                "content_type": 2
+              },
+              {
+                "content_id": 5205657494423313,
+                "content_name": "Bản tin tháng 8 năm 2025 cho Nhà Bán Hàng  ",
+                "content_type": 2
+              },
+              {
+                "content_id": 5212819393922832,
+                "content_name": "Bản tin tháng 9 năm 2025 cho Nhà Bán Hàng  ",
+                "content_type": 2
+              },
+              {
+                "content_id": 5205657495176977,
+                "content_name": "Bản tin tháng 10 năm 2025 cho Nhà Bán Hàng  ",
+                "content_type": 2
+              },
+              {
+                "content_id": 5225222211340033,
+                "content_name": "Bản tin tháng 11 năm 2025 cho Nhà Bán Hàng  ",
+                "content_type": 2
+              },
+              {
+                "content_id": 5126257684612880,
+                "content_name": "Bản tin tháng 12 năm 2025 cho Nhà Bán Hàng",
+                "content_type": 2
+              },
+              {
+                "content_id": 4673079272458001,
+                "content_name": "Bản tin tháng 1 năm 2026 cho Nhà Bán Hàng ",
+                "content_type": 2
+              },
+              {
+                "content_id": 853978766673680,
+                "content_name": "Bản tin tháng 2 năm 2026 cho Nhà Bán Hàng",
+                "content_type": 2
+              },
+              {
+                "content_id": 1037647590442769,
+                "content_name": "Bản tin tháng 3 năm 2026 cho Nhà Bán Hàng",
+                "content_type": 2
+              },
+              {
+                "content_id": 6520566824027921,
+                "content_name": "Bản tin tháng 4 năm 2026 cho Nhà Bán Hàng",
+                "content_type": 2
+              },
+              {
+                "content_id": 1149246410655489,
+                "content_name": "Bản tin tháng 5 năm 2026 cho Nhà Bán Hàng",
+                "content_type": 2
+              }
+            ]
+          }
+        ]
+      },
+      "toc_list": [
+        {
+          "id": "minh-h-a-c-ch-t-nh-thu-",
+          "text": "Minh họa cách tính thuế",
+          "level": "h2"
+        },
+        {
+          "id": "l-m-th-n-o-cung-c-p-m-s-thu-tr-n-tiktok-shop-",
+          "text": "Làm thế nào để cung cấp Mã số thuế trên TikTok Shop?",
+          "level": "h2"
+        },
+        {
+          "id": "nh-b-n-h-ng-c-nh-n-v-h-kinh-doanh",
+          "text": "Nhà Bán Hàng Cá Nhân và Hộ Kinh Doanh",
+          "level": "h3"
+        },
+        {
+          "id": "nh-b-n-h-ng-doanh-nghi-p",
+          "text": "Nhà Bán Hàng Doanh Nghiệp",
+          "level": "h2"
+        }
+      ],
+      "contentModule": 3,
+      "canonical_url": "https://seller-vn.tiktok.com/university/essay?knowledge_id=6837804173133569&lang=vi-VN"
+    }
+  },
+  "errors": null
+}

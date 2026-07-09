@@ -1,0 +1,19 @@
+*.zip
+*.pyc
+__pycache__/
+.git/
+.vscode/
+.idea/
+raw_json/
+*.txt
+*.json
+!tiktok_router_data.json
+Bao_Cao_Chi_Tiet_Landing.md
+landing_page_documentation.md
+HUONG_DAN_SU_DUNG.md
+github_pages_publish_sotayvanhanh/
+handbook.html
+
+# Ignore all python files except the main build script
+*.py
+!build_unified_handbook_new.py
