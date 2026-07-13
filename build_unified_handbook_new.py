@@ -2031,7 +2031,7 @@ body_content = f"""
     <!-- Main Content Area -->
     <main class="content-container" id="content-area">
         <div class="content-header">
-            <h3 id="app-subtitle" style="margin-top:0; color:var(--text-secondary); font-size: 14px; font-weight:500;">Cẩm nang Vận hành Bán hàng Shopee Việt Nam v2026</h3>
+            <h3 id="app-subtitle" style="margin-top:0; color:var(--text-secondary); font-size: 14px; font-weight:500;">SỔ TAY VẬN HÀNH</h3>
             <span style="font-size:12px; color:var(--text-secondary); background:var(--border-color); padding: 4px 10px; border-radius: 12px; font-weight:500;">Tài liệu Đào tạo Nội bộ</span>
         </div>
         <div class="content-body">
@@ -2284,7 +2284,7 @@ template_foot = f"""
             if (platform === 'shopee') {{
                 document.getElementById('shopee-content').classList.add('active');
                 document.getElementById('shopee-menu').style.display = 'block';
-                document.getElementById('app-subtitle').innerText = "Cẩm nang Vận hành Bán hàng Shopee Việt Nam v2026";
+                document.getElementById('app-subtitle').innerText = "SỔ TAY VẬN HÀNH";
                 
                 // Highlight first chapter
                 const activeLink = document.querySelector('#shopee-menu .menu-link');
@@ -2335,7 +2335,7 @@ template_foot = f"""
 
             // Subtitle text update
             const levelText = level === 'basic' ? "Bản Cơ Bản" : "Bản Nâng Cao";
-            document.getElementById('app-subtitle').innerText = "Cẩm nang Vận hành Bán hàng TikTok Shop Việt Nam v2026 (" + levelText + ")";
+            document.getElementById('app-subtitle').innerText = "SỔ TAY VẬN HÀNH";
 
             // Highlight first chapter in newly opened menu
             const activeLink = document.querySelector('#tiktok-' + level + '-menu .menu-link');
