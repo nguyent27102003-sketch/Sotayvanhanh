@@ -2023,7 +2023,7 @@ body_content = f"""
             <div id="shopee-content" class="platform-content active">
                 <div style="text-align: center; margin-bottom: 40px; padding: 40px; background: var(--bg-secondary); border-radius: 16px; border: 1px solid var(--border-color);">
                     <span style="font-size: 40px;">🍊</span>
-                    <h1 style="margin-top: 16px; border:none; padding:0; font-size:32px; line-height:1.2; color:var(--shopee-color);">CẨM NANG VẬN HÀNH SHOPEE</h1>
+                    <h1 style="margin-top: 16px; border:none; padding:0; font-size:32px; line-height:1.2; color:var(--shopee-color);">VẬN HÀNH SHOPEE</h1>
                     <p style="color: var(--text-secondary); font-size: 16px; margin-top: 12px; margin-bottom:0;">Chính sách Pháp lý - Kỹ thuật Livestream - Hướng dẫn Thuế mới nhất</p>
                 </div>
                 {shopee_html}
@@ -2033,7 +2033,7 @@ body_content = f"""
             <div id="tiktok-basic-content" class="platform-content">
                 <div style="text-align: center; margin-bottom: 40px; padding: 40px; background: var(--bg-secondary); border-radius: 16px; border: 1px solid var(--border-color);">
                     <span style="font-size: 40px;">🎬</span>
-                    <h1 style="margin-top: 16px; border:none; padding:0; font-size:32px; line-height:1.2; color:var(--tiktok-accent);">CẨM NANG TIKTOK SHOP (CƠ BẢN)</h1>
+                    <h1 style="margin-top: 16px; border:none; padding:0; font-size:32px; line-height:1.2; color:var(--tiktok-accent);">TIKTOK SHOP (CƠ BẢN)</h1>
                     <p style="color: var(--text-secondary); font-size: 16px; margin-top: 12px; margin-bottom:0;">Lộ trình làm quen - Đăng ký shop cá nhân - Thiết lập kho & vận hành đơn lẻ</p>
                 </div>
                 {tiktok_basic_html}
@@ -2043,7 +2043,7 @@ body_content = f"""
             <div id="tiktok-advanced-content" class="platform-content">
                 <div style="text-align: center; margin-bottom: 40px; padding: 40px; background: var(--bg-secondary); border-radius: 16px; border: 1px solid var(--border-color);">
                     <span style="font-size: 40px;">⚡</span>
-                    <h1 style="margin-top: 16px; border:none; padding:0; font-size:32px; line-height:1.2; color:var(--tiktok-accent);">CẨM NANG TIKTOK SHOP (NÂNG CAO)</h1>
+                    <h1 style="margin-top: 16px; border:none; padding:0; font-size:32px; line-height:1.2; color:var(--tiktok-accent);">TIKTOK SHOP (NÂNG CAO)</h1>
                     <p style="color: var(--text-secondary); font-size: 16px; margin-top: 12px; margin-bottom:0;">Chuyên sâu 18 Module - Kỹ thuật Live chuyên nghiệp - Đối soát & Phí sàn chi tiết</p>
                 </div>
                 {tiktok_advanced_html}
